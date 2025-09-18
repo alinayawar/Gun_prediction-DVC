@@ -1,0 +1,5 @@
+tensorboard --logdir=tensorboard_logs/
+dvc init --no-scm
+dvc repro
+git init
+dvc init
