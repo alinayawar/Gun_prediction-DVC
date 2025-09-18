@@ -3,3 +3,4 @@ dvc init --no-scm
 dvc repro
 git init
 dvc init
+ dvc add artifacts/raw

@@ -13,3 +13,20 @@ stages:
       md5: adfb9f01a07ced01f71d76b2cc3d7908.dir
       size: 2442191
       nfiles: 666
+  model_training:
+    cmd: python src/model_training.py
+    deps:
+    - path: artifacts/raw/
+      hash: md5
+      md5: adfb9f01a07ced01f71d76b2cc3d7908.dir
+      size: 2442191
+      nfiles: 666
+    - path: src/model_training.py
+      hash: md5
+      md5: ead64e39c72a20c29405488809068937
+      size: 5108
+    outs:
+    - path: artifacts/models/fasterrcnn.pth
+      hash: md5
+      md5: 140519859fccdc199ff57ff8d05adeac
+      size: 165724408

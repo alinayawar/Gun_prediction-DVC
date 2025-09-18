@@ -2,3 +2,2241 @@
 2025-09-19 00:38:36,819 - INFO - Download the data from C:\Users\YAM TEk\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
 2025-09-19 00:38:37,058 - INFO - Images moved sucesfully..
 2025-09-19 00:38:37,312 - INFO - Labels moved sucesfully..
+2025-09-19 00:38:47,419 - INFO - Model Architecture intialized...
+2025-09-19 00:38:47,421 - INFO - Model Moved to device
+2025-09-19 00:38:47,422 - INFO - Optimizer has been initialized..
+2025-09-19 00:38:47,423 - INFO - Data Processing Initialized...
+2025-09-19 00:38:47,423 - INFO - Data splitted sucesfuly...
+2025-09-19 00:38:47,424 - INFO - Starting epoch 0
+2025-09-19 00:38:47,425 - INFO - Loading Data for index 42
+2025-09-19 00:38:47,425 - INFO - Image Path : artifacts/raw/Images\137.jpeg
+2025-09-19 00:38:47,429 - INFO - Loading Data for index 199
+2025-09-19 00:38:47,429 - INFO - Image Path : artifacts/raw/Images\279.jpeg
+2025-09-19 00:38:47,430 - INFO - Loading Data for index 111
+2025-09-19 00:38:47,430 - INFO - Image Path : artifacts/raw/Images\2.jpeg
+2025-09-19 00:39:11,286 - INFO - Loading Data for index 2
+2025-09-19 00:39:11,286 - INFO - Image Path : artifacts/raw/Images\100.jpeg
+2025-09-19 00:39:11,289 - INFO - Loading Data for index 264
+2025-09-19 00:39:11,289 - INFO - Image Path : artifacts/raw/Images\37.jpeg
+2025-09-19 00:39:11,292 - INFO - Loading Data for index 298
+2025-09-19 00:39:11,293 - INFO - Image Path : artifacts/raw/Images\68.jpeg
+2025-09-19 00:39:34,694 - INFO - Loading Data for index 252
+2025-09-19 00:39:34,695 - INFO - Image Path : artifacts/raw/Images\326.jpeg
+2025-09-19 00:39:34,697 - INFO - Loading Data for index 291
+2025-09-19 00:39:34,697 - INFO - Image Path : artifacts/raw/Images\61.jpeg
+2025-09-19 00:39:34,698 - INFO - Loading Data for index 68
+2025-09-19 00:39:34,698 - INFO - Image Path : artifacts/raw/Images\160.jpeg
+2025-09-19 00:39:57,617 - INFO - Loading Data for index 22
+2025-09-19 00:39:57,617 - INFO - Image Path : artifacts/raw/Images\119.jpeg
+2025-09-19 00:39:57,618 - INFO - Loading Data for index 132
+2025-09-19 00:39:57,618 - INFO - Image Path : artifacts/raw/Images\218.jpeg
+2025-09-19 00:39:57,620 - INFO - Loading Data for index 237
+2025-09-19 00:39:57,620 - INFO - Image Path : artifacts/raw/Images\312.jpeg
+2025-09-19 00:40:26,302 - INFO - Loading Data for index 294
+2025-09-19 00:40:26,303 - INFO - Image Path : artifacts/raw/Images\64.jpeg
+2025-09-19 00:40:26,305 - INFO - Loading Data for index 254
+2025-09-19 00:40:26,306 - INFO - Image Path : artifacts/raw/Images\328.jpeg
+2025-09-19 00:40:26,309 - INFO - Loading Data for index 77
+2025-09-19 00:40:26,309 - INFO - Image Path : artifacts/raw/Images\169.jpeg
+2025-09-19 00:41:02,211 - INFO - Loading Data for index 189
+2025-09-19 00:41:02,211 - INFO - Image Path : artifacts/raw/Images\27.jpeg
+2025-09-19 00:41:02,214 - INFO - Loading Data for index 134
+2025-09-19 00:41:02,214 - INFO - Image Path : artifacts/raw/Images\22.jpeg
+2025-09-19 00:41:02,216 - INFO - Loading Data for index 92
+2025-09-19 00:41:02,216 - INFO - Image Path : artifacts/raw/Images\182.jpeg
+2025-09-19 00:41:35,766 - INFO - Loading Data for index 204
+2025-09-19 00:41:35,766 - INFO - Image Path : artifacts/raw/Images\283.jpeg
+2025-09-19 00:41:35,769 - INFO - Loading Data for index 94
+2025-09-19 00:41:35,769 - INFO - Image Path : artifacts/raw/Images\184.jpeg
+2025-09-19 00:41:35,771 - INFO - Loading Data for index 174
+2025-09-19 00:41:35,772 - INFO - Image Path : artifacts/raw/Images\256.jpeg
+2025-09-19 00:41:59,616 - INFO - Loading Data for index 162
+2025-09-19 00:41:59,616 - INFO - Image Path : artifacts/raw/Images\245.jpeg
+2025-09-19 00:41:59,619 - INFO - Loading Data for index 5
+2025-09-19 00:41:59,619 - INFO - Image Path : artifacts/raw/Images\103.jpeg
+2025-09-19 00:41:59,625 - INFO - Loading Data for index 26
+2025-09-19 00:41:59,625 - INFO - Image Path : artifacts/raw/Images\122.jpeg
+2025-09-19 00:42:21,741 - INFO - Loading Data for index 164
+2025-09-19 00:42:21,741 - INFO - Image Path : artifacts/raw/Images\247.jpeg
+2025-09-19 00:42:21,743 - INFO - Loading Data for index 135
+2025-09-19 00:42:21,743 - INFO - Image Path : artifacts/raw/Images\220.jpeg
+2025-09-19 00:42:21,744 - INFO - Loading Data for index 4
+2025-09-19 00:42:21,744 - INFO - Image Path : artifacts/raw/Images\102.jpeg
+2025-09-19 00:42:41,136 - INFO - Loading Data for index 49
+2025-09-19 00:42:41,136 - INFO - Image Path : artifacts/raw/Images\143.jpeg
+2025-09-19 00:42:41,138 - INFO - Loading Data for index 240
+2025-09-19 00:42:41,139 - INFO - Image Path : artifacts/raw/Images\315.jpeg
+2025-09-19 00:42:41,140 - INFO - Loading Data for index 17
+2025-09-19 00:42:41,140 - INFO - Image Path : artifacts/raw/Images\114.jpeg
+2025-09-19 00:43:06,221 - INFO - Loading Data for index 52
+2025-09-19 00:43:06,221 - INFO - Image Path : artifacts/raw/Images\146.jpeg
+2025-09-19 00:43:06,223 - INFO - Loading Data for index 146
+2025-09-19 00:43:06,223 - INFO - Image Path : artifacts/raw/Images\230.jpeg
+2025-09-19 00:43:06,224 - INFO - Loading Data for index 160
+2025-09-19 00:43:06,224 - INFO - Image Path : artifacts/raw/Images\243.jpeg
+2025-09-19 00:43:41,655 - INFO - Loading Data for index 168
+2025-09-19 00:43:41,656 - INFO - Image Path : artifacts/raw/Images\250.jpeg
+2025-09-19 00:43:41,659 - INFO - Loading Data for index 85
+2025-09-19 00:43:41,659 - INFO - Image Path : artifacts/raw/Images\176.jpeg
+2025-09-19 00:43:41,661 - INFO - Loading Data for index 83
+2025-09-19 00:43:41,661 - INFO - Image Path : artifacts/raw/Images\174.jpeg
+2025-09-19 00:44:12,005 - INFO - Loading Data for index 51
+2025-09-19 00:44:12,005 - INFO - Image Path : artifacts/raw/Images\145.jpeg
+2025-09-19 00:44:12,007 - INFO - Loading Data for index 287
+2025-09-19 00:44:12,007 - INFO - Image Path : artifacts/raw/Images\58.jpeg
+2025-09-19 00:44:12,009 - INFO - Loading Data for index 58
+2025-09-19 00:44:12,009 - INFO - Image Path : artifacts/raw/Images\151.jpeg
+2025-09-19 00:44:49,093 - INFO - Loading Data for index 271
+2025-09-19 00:44:49,093 - INFO - Image Path : artifacts/raw/Images\43.jpeg
+2025-09-19 00:44:49,096 - INFO - Loading Data for index 190
+2025-09-19 00:44:49,096 - INFO - Image Path : artifacts/raw/Images\270.jpeg
+2025-09-19 00:44:49,099 - INFO - Loading Data for index 253
+2025-09-19 00:44:49,099 - INFO - Image Path : artifacts/raw/Images\327.jpeg
+2025-09-19 00:45:17,887 - INFO - Loading Data for index 74
+2025-09-19 00:45:17,887 - INFO - Image Path : artifacts/raw/Images\166.jpeg
+2025-09-19 00:45:17,889 - INFO - Loading Data for index 28
+2025-09-19 00:45:17,889 - INFO - Image Path : artifacts/raw/Images\124.jpeg
+2025-09-19 00:45:17,892 - INFO - Loading Data for index 107
+2025-09-19 00:45:17,892 - INFO - Image Path : artifacts/raw/Images\196.jpeg
+2025-09-19 00:45:48,302 - INFO - Loading Data for index 269
+2025-09-19 00:45:48,302 - INFO - Image Path : artifacts/raw/Images\41.jpeg
+2025-09-19 00:45:48,305 - INFO - Loading Data for index 113
+2025-09-19 00:45:48,305 - INFO - Image Path : artifacts/raw/Images\200.jpeg
+2025-09-19 00:45:48,307 - INFO - Loading Data for index 213
+2025-09-19 00:45:48,307 - INFO - Image Path : artifacts/raw/Images\291.jpeg
+2025-09-19 00:46:17,660 - INFO - Loading Data for index 44
+2025-09-19 00:46:17,661 - INFO - Image Path : artifacts/raw/Images\139.jpeg
+2025-09-19 00:46:17,663 - INFO - Loading Data for index 238
+2025-09-19 00:46:17,663 - INFO - Image Path : artifacts/raw/Images\313.jpeg
+2025-09-19 00:46:17,665 - INFO - Loading Data for index 261
+2025-09-19 00:46:17,665 - INFO - Image Path : artifacts/raw/Images\34.jpeg
+2025-09-19 00:46:43,891 - INFO - Loading Data for index 130
+2025-09-19 00:46:43,891 - INFO - Image Path : artifacts/raw/Images\216.jpeg
+2025-09-19 00:46:43,893 - INFO - Loading Data for index 263
+2025-09-19 00:46:43,893 - INFO - Image Path : artifacts/raw/Images\36.jpeg
+2025-09-19 00:46:43,895 - INFO - Loading Data for index 89
+2025-09-19 00:46:43,895 - INFO - Image Path : artifacts/raw/Images\18.jpeg
+2025-09-19 00:47:15,087 - INFO - Loading Data for index 150
+2025-09-19 00:47:15,087 - INFO - Image Path : artifacts/raw/Images\234.jpeg
+2025-09-19 00:47:15,089 - INFO - Loading Data for index 205
+2025-09-19 00:47:15,090 - INFO - Image Path : artifacts/raw/Images\284.jpeg
+2025-09-19 00:47:15,092 - INFO - Loading Data for index 155
+2025-09-19 00:47:15,092 - INFO - Image Path : artifacts/raw/Images\239.jpeg
+2025-09-19 00:47:36,572 - INFO - Loading Data for index 101
+2025-09-19 00:47:36,572 - INFO - Image Path : artifacts/raw/Images\190.jpeg
+2025-09-19 00:47:36,575 - INFO - Loading Data for index 9
+2025-09-19 00:47:36,576 - INFO - Image Path : artifacts/raw/Images\107.jpeg
+2025-09-19 00:47:36,578 - INFO - Loading Data for index 166
+2025-09-19 00:47:36,578 - INFO - Image Path : artifacts/raw/Images\249.jpeg
+2025-09-19 00:48:10,903 - INFO - Loading Data for index 73
+2025-09-19 00:48:10,904 - INFO - Image Path : artifacts/raw/Images\165.jpeg
+2025-09-19 00:48:10,907 - INFO - Loading Data for index 67
+2025-09-19 00:48:10,907 - INFO - Image Path : artifacts/raw/Images\16.jpeg
+2025-09-19 00:48:10,909 - INFO - Loading Data for index 27
+2025-09-19 00:48:10,909 - INFO - Image Path : artifacts/raw/Images\123.jpeg
+2025-09-19 00:48:33,899 - INFO - Loading Data for index 21
+2025-09-19 00:48:33,899 - INFO - Image Path : artifacts/raw/Images\118.jpeg
+2025-09-19 00:48:33,900 - INFO - Loading Data for index 280
+2025-09-19 00:48:33,900 - INFO - Image Path : artifacts/raw/Images\51.jpeg
+2025-09-19 00:48:33,902 - INFO - Loading Data for index 80
+2025-09-19 00:48:33,902 - INFO - Image Path : artifacts/raw/Images\171.jpeg
+2025-09-19 00:49:00,687 - INFO - Loading Data for index 127
+2025-09-19 00:49:00,688 - INFO - Image Path : artifacts/raw/Images\213.jpeg
+2025-09-19 00:49:00,691 - INFO - Loading Data for index 103
+2025-09-19 00:49:00,691 - INFO - Image Path : artifacts/raw/Images\192.jpeg
+2025-09-19 00:49:00,695 - INFO - Loading Data for index 142
+2025-09-19 00:49:00,695 - INFO - Image Path : artifacts/raw/Images\227.jpeg
+2025-09-19 00:49:29,788 - INFO - Loading Data for index 10
+2025-09-19 00:49:29,788 - INFO - Image Path : artifacts/raw/Images\108.jpeg
+2025-09-19 00:49:29,790 - INFO - Loading Data for index 50
+2025-09-19 00:49:29,790 - INFO - Image Path : artifacts/raw/Images\144.jpeg
+2025-09-19 00:49:29,792 - INFO - Loading Data for index 200
+2025-09-19 00:49:29,792 - INFO - Image Path : artifacts/raw/Images\28.jpeg
+2025-09-19 00:50:09,112 - INFO - Loading Data for index 90
+2025-09-19 00:50:09,113 - INFO - Image Path : artifacts/raw/Images\180.jpeg
+2025-09-19 00:50:09,114 - INFO - Loading Data for index 224
+2025-09-19 00:50:09,114 - INFO - Image Path : artifacts/raw/Images\300.jpeg
+2025-09-19 00:50:09,116 - INFO - Loading Data for index 102
+2025-09-19 00:50:09,116 - INFO - Image Path : artifacts/raw/Images\191.jpeg
+2025-09-19 00:50:38,209 - INFO - Loading Data for index 16
+2025-09-19 00:50:38,210 - INFO - Image Path : artifacts/raw/Images\113.jpeg
+2025-09-19 00:50:38,214 - INFO - Loading Data for index 14
+2025-09-19 00:50:38,214 - INFO - Image Path : artifacts/raw/Images\111.jpeg
+2025-09-19 00:50:38,216 - INFO - Loading Data for index 270
+2025-09-19 00:50:38,217 - INFO - Image Path : artifacts/raw/Images\42.jpeg
+2025-09-19 00:51:12,587 - INFO - Loading Data for index 64
+2025-09-19 00:51:12,587 - INFO - Image Path : artifacts/raw/Images\157.jpeg
+2025-09-19 00:51:12,589 - INFO - Loading Data for index 19
+2025-09-19 00:51:12,589 - INFO - Image Path : artifacts/raw/Images\116.jpeg
+2025-09-19 00:51:12,590 - INFO - Loading Data for index 293
+2025-09-19 00:51:12,590 - INFO - Image Path : artifacts/raw/Images\63.jpeg
+2025-09-19 00:51:35,038 - INFO - Loading Data for index 221
+2025-09-19 00:51:35,038 - INFO - Image Path : artifacts/raw/Images\299.jpeg
+2025-09-19 00:51:35,040 - INFO - Loading Data for index 281
+2025-09-19 00:51:35,040 - INFO - Image Path : artifacts/raw/Images\52.jpeg
+2025-09-19 00:51:35,041 - INFO - Loading Data for index 29
+2025-09-19 00:51:35,041 - INFO - Image Path : artifacts/raw/Images\125.jpeg
+2025-09-19 00:52:11,258 - INFO - Loading Data for index 259
+2025-09-19 00:52:11,258 - INFO - Image Path : artifacts/raw/Images\332.jpeg
+2025-09-19 00:52:11,262 - INFO - Loading Data for index 43
+2025-09-19 00:52:11,262 - INFO - Image Path : artifacts/raw/Images\138.jpeg
+2025-09-19 00:52:11,264 - INFO - Loading Data for index 8
+2025-09-19 00:52:11,264 - INFO - Image Path : artifacts/raw/Images\106.jpeg
+2025-09-19 00:52:43,412 - INFO - Loading Data for index 246
+2025-09-19 00:52:43,412 - INFO - Image Path : artifacts/raw/Images\320.jpeg
+2025-09-19 00:52:43,414 - INFO - Loading Data for index 65
+2025-09-19 00:52:43,414 - INFO - Image Path : artifacts/raw/Images\158.jpeg
+2025-09-19 00:52:43,415 - INFO - Loading Data for index 36
+2025-09-19 00:52:43,415 - INFO - Image Path : artifacts/raw/Images\131.jpeg
+2025-09-19 00:53:10,724 - INFO - Loading Data for index 250
+2025-09-19 00:53:10,724 - INFO - Image Path : artifacts/raw/Images\324.jpeg
+2025-09-19 00:53:10,726 - INFO - Loading Data for index 35
+2025-09-19 00:53:10,726 - INFO - Image Path : artifacts/raw/Images\130.jpeg
+2025-09-19 00:53:10,728 - INFO - Loading Data for index 125
+2025-09-19 00:53:10,728 - INFO - Image Path : artifacts/raw/Images\211.jpeg
+2025-09-19 00:53:49,632 - INFO - Loading Data for index 122
+2025-09-19 00:53:49,633 - INFO - Image Path : artifacts/raw/Images\209.jpeg
+2025-09-19 00:53:49,634 - INFO - Loading Data for index 175
+2025-09-19 00:53:49,635 - INFO - Image Path : artifacts/raw/Images\257.jpeg
+2025-09-19 00:53:49,636 - INFO - Loading Data for index 244
+2025-09-19 00:53:49,636 - INFO - Image Path : artifacts/raw/Images\319.jpeg
+2025-09-19 00:54:16,727 - INFO - Loading Data for index 137
+2025-09-19 00:54:16,727 - INFO - Image Path : artifacts/raw/Images\222.jpeg
+2025-09-19 00:54:16,728 - INFO - Loading Data for index 208
+2025-09-19 00:54:16,728 - INFO - Image Path : artifacts/raw/Images\287.jpeg
+2025-09-19 00:54:16,730 - INFO - Loading Data for index 232
+2025-09-19 00:54:16,730 - INFO - Image Path : artifacts/raw/Images\308.jpeg
+2025-09-19 00:54:42,139 - INFO - Loading Data for index 63
+2025-09-19 00:54:42,140 - INFO - Image Path : artifacts/raw/Images\156.jpeg
+2025-09-19 00:54:42,141 - INFO - Loading Data for index 296
+2025-09-19 00:54:42,141 - INFO - Image Path : artifacts/raw/Images\66.jpeg
+2025-09-19 00:54:42,143 - INFO - Loading Data for index 181
+2025-09-19 00:54:42,143 - INFO - Image Path : artifacts/raw/Images\262.jpeg
+2025-09-19 00:55:07,406 - INFO - Loading Data for index 118
+2025-09-19 00:55:07,406 - INFO - Image Path : artifacts/raw/Images\205.jpeg
+2025-09-19 00:55:07,410 - INFO - Loading Data for index 41
+2025-09-19 00:55:07,410 - INFO - Image Path : artifacts/raw/Images\136.jpeg
+2025-09-19 00:55:07,412 - INFO - Loading Data for index 279
+2025-09-19 00:55:07,412 - INFO - Image Path : artifacts/raw/Images\50.jpeg
+2025-09-19 00:55:29,312 - INFO - Loading Data for index 6
+2025-09-19 00:55:29,312 - INFO - Image Path : artifacts/raw/Images\104.jpeg
+2025-09-19 00:55:29,313 - INFO - Loading Data for index 173
+2025-09-19 00:55:29,313 - INFO - Image Path : artifacts/raw/Images\255.jpeg
+2025-09-19 00:55:29,315 - INFO - Loading Data for index 105
+2025-09-19 00:55:29,315 - INFO - Image Path : artifacts/raw/Images\194.jpeg
+2025-09-19 00:56:07,787 - INFO - Loading Data for index 251
+2025-09-19 00:56:07,788 - INFO - Image Path : artifacts/raw/Images\325.jpeg
+2025-09-19 00:56:07,792 - INFO - Loading Data for index 219
+2025-09-19 00:56:07,792 - INFO - Image Path : artifacts/raw/Images\297.jpeg
+2025-09-19 00:56:07,795 - INFO - Loading Data for index 227
+2025-09-19 00:56:07,795 - INFO - Image Path : artifacts/raw/Images\303.jpeg
+2025-09-19 00:56:32,522 - INFO - Loading Data for index 141
+2025-09-19 00:56:32,522 - INFO - Image Path : artifacts/raw/Images\226.jpeg
+2025-09-19 00:56:32,524 - INFO - Loading Data for index 255
+2025-09-19 00:56:32,525 - INFO - Image Path : artifacts/raw/Images\329.jpeg
+2025-09-19 00:56:32,526 - INFO - Loading Data for index 69
+2025-09-19 00:56:32,526 - INFO - Image Path : artifacts/raw/Images\161.jpeg
+2025-09-19 00:57:01,038 - INFO - Loading Data for index 184
+2025-09-19 00:57:01,038 - INFO - Image Path : artifacts/raw/Images\265.jpeg
+2025-09-19 00:57:01,042 - INFO - Loading Data for index 95
+2025-09-19 00:57:01,043 - INFO - Image Path : artifacts/raw/Images\185.jpeg
+2025-09-19 00:57:01,046 - INFO - Loading Data for index 37
+2025-09-19 00:57:01,046 - INFO - Image Path : artifacts/raw/Images\132.jpeg
+2025-09-19 00:57:28,083 - INFO - Loading Data for index 136
+2025-09-19 00:57:28,084 - INFO - Image Path : artifacts/raw/Images\221.jpeg
+2025-09-19 00:57:28,087 - INFO - Loading Data for index 79
+2025-09-19 00:57:28,087 - INFO - Image Path : artifacts/raw/Images\170.jpeg
+2025-09-19 00:57:28,090 - INFO - Loading Data for index 60
+2025-09-19 00:57:28,090 - INFO - Image Path : artifacts/raw/Images\153.jpeg
+2025-09-19 00:58:02,883 - INFO - Loading Data for index 117
+2025-09-19 00:58:02,883 - INFO - Image Path : artifacts/raw/Images\204.jpeg
+2025-09-19 00:58:02,885 - INFO - Loading Data for index 54
+2025-09-19 00:58:02,885 - INFO - Image Path : artifacts/raw/Images\148.jpeg
+2025-09-19 00:58:02,887 - INFO - Loading Data for index 61
+2025-09-19 00:58:02,887 - INFO - Image Path : artifacts/raw/Images\154.jpeg
+2025-09-19 00:58:27,126 - INFO - Loading Data for index 121
+2025-09-19 00:58:27,126 - INFO - Image Path : artifacts/raw/Images\208.jpeg
+2025-09-19 00:58:27,129 - INFO - Loading Data for index 109
+2025-09-19 00:58:27,129 - INFO - Image Path : artifacts/raw/Images\198.jpeg
+2025-09-19 00:58:27,131 - INFO - Loading Data for index 31
+2025-09-19 00:58:27,131 - INFO - Image Path : artifacts/raw/Images\127.jpeg
+2025-09-19 00:59:07,457 - INFO - Loading Data for index 245
+2025-09-19 00:59:07,458 - INFO - Image Path : artifacts/raw/Images\32.jpeg
+2025-09-19 00:59:07,460 - INFO - Loading Data for index 145
+2025-09-19 00:59:07,460 - INFO - Image Path : artifacts/raw/Images\23.jpeg
+2025-09-19 00:59:07,462 - INFO - Loading Data for index 119
+2025-09-19 00:59:07,463 - INFO - Image Path : artifacts/raw/Images\206.jpeg
+2025-09-19 00:59:42,854 - INFO - Loading Data for index 299
+2025-09-19 00:59:42,854 - INFO - Image Path : artifacts/raw/Images\69.jpeg
+2025-09-19 00:59:42,857 - INFO - Loading Data for index 0
+2025-09-19 00:59:42,857 - INFO - Image Path : artifacts/raw/Images\1.jpeg
+2025-09-19 00:59:42,860 - INFO - Loading Data for index 180
+2025-09-19 00:59:42,860 - INFO - Image Path : artifacts/raw/Images\261.jpeg
+2025-09-19 01:00:07,110 - INFO - Loading Data for index 233
+2025-09-19 01:00:07,110 - INFO - Image Path : artifacts/raw/Images\309.jpeg
+2025-09-19 01:00:07,112 - INFO - Loading Data for index 262
+2025-09-19 01:00:07,112 - INFO - Image Path : artifacts/raw/Images\35.jpeg
+2025-09-19 01:00:07,113 - INFO - Loading Data for index 161
+2025-09-19 01:00:07,113 - INFO - Image Path : artifacts/raw/Images\244.jpeg
+2025-09-19 01:00:29,342 - INFO - Loading Data for index 32
+2025-09-19 01:00:29,342 - INFO - Image Path : artifacts/raw/Images\128.jpeg
+2025-09-19 01:00:29,344 - INFO - Loading Data for index 62
+2025-09-19 01:00:29,345 - INFO - Image Path : artifacts/raw/Images\155.jpeg
+2025-09-19 01:00:29,346 - INFO - Loading Data for index 149
+2025-09-19 01:00:29,346 - INFO - Image Path : artifacts/raw/Images\233.jpeg
+2025-09-19 01:01:07,375 - INFO - Loading Data for index 267
+2025-09-19 01:01:07,375 - INFO - Image Path : artifacts/raw/Images\4.jpeg
+2025-09-19 01:01:07,376 - INFO - Loading Data for index 283
+2025-09-19 01:01:07,377 - INFO - Image Path : artifacts/raw/Images\54.jpeg
+2025-09-19 01:01:07,378 - INFO - Loading Data for index 104
+2025-09-19 01:01:07,378 - INFO - Image Path : artifacts/raw/Images\193.jpeg
+2025-09-19 01:01:26,718 - INFO - Loading Data for index 158
+2025-09-19 01:01:26,719 - INFO - Image Path : artifacts/raw/Images\241.jpeg
+2025-09-19 01:01:26,721 - INFO - Loading Data for index 248
+2025-09-19 01:01:26,721 - INFO - Image Path : artifacts/raw/Images\322.jpeg
+2025-09-19 01:01:26,723 - INFO - Loading Data for index 194
+2025-09-19 01:01:26,723 - INFO - Image Path : artifacts/raw/Images\274.jpeg
+2025-09-19 01:01:49,823 - INFO - Loading Data for index 87
+2025-09-19 01:01:49,823 - INFO - Image Path : artifacts/raw/Images\178.jpeg
+2025-09-19 01:01:49,825 - INFO - Loading Data for index 290
+2025-09-19 01:01:49,825 - INFO - Image Path : artifacts/raw/Images\60.jpeg
+2025-09-19 01:01:49,826 - INFO - Loading Data for index 198
+2025-09-19 01:01:49,826 - INFO - Image Path : artifacts/raw/Images\278.jpeg
+2025-09-19 01:02:12,428 - INFO - Loading Data for index 18
+2025-09-19 01:02:12,428 - INFO - Image Path : artifacts/raw/Images\115.jpeg
+2025-09-19 01:02:12,429 - INFO - Loading Data for index 13
+2025-09-19 01:02:12,429 - INFO - Image Path : artifacts/raw/Images\110.jpeg
+2025-09-19 01:02:12,431 - INFO - Loading Data for index 126
+2025-09-19 01:02:12,431 - INFO - Image Path : artifacts/raw/Images\212.jpeg
+2025-09-19 01:02:31,678 - INFO - Loading Data for index 188
+2025-09-19 01:02:31,678 - INFO - Image Path : artifacts/raw/Images\269.jpeg
+2025-09-19 01:02:31,680 - INFO - Loading Data for index 140
+2025-09-19 01:02:31,681 - INFO - Image Path : artifacts/raw/Images\225.jpeg
+2025-09-19 01:02:31,683 - INFO - Loading Data for index 139
+2025-09-19 01:02:31,683 - INFO - Image Path : artifacts/raw/Images\224.jpeg
+2025-09-19 01:02:53,130 - INFO - Loading Data for index 138
+2025-09-19 01:02:53,131 - INFO - Image Path : artifacts/raw/Images\223.jpeg
+2025-09-19 01:02:53,133 - INFO - Loading Data for index 165
+2025-09-19 01:02:53,133 - INFO - Image Path : artifacts/raw/Images\248.jpeg
+2025-09-19 01:02:53,135 - INFO - Loading Data for index 72
+2025-09-19 01:02:53,136 - INFO - Image Path : artifacts/raw/Images\164.jpeg
+2025-09-19 01:03:15,730 - INFO - Loading Data for index 235
+2025-09-19 01:03:15,730 - INFO - Image Path : artifacts/raw/Images\310.jpeg
+2025-09-19 01:03:15,731 - INFO - Loading Data for index 185
+2025-09-19 01:03:15,731 - INFO - Image Path : artifacts/raw/Images\266.jpeg
+2025-09-19 01:03:15,732 - INFO - Loading Data for index 256
+2025-09-19 01:03:15,733 - INFO - Image Path : artifacts/raw/Images\33.jpeg
+2025-09-19 01:03:45,817 - INFO - Loading Data for index 211
+2025-09-19 01:03:45,818 - INFO - Image Path : artifacts/raw/Images\29.jpeg
+2025-09-19 01:03:45,819 - INFO - Loading Data for index 286
+2025-09-19 01:03:45,819 - INFO - Image Path : artifacts/raw/Images\57.jpeg
+2025-09-19 01:03:45,821 - INFO - Loading Data for index 108
+2025-09-19 01:03:45,821 - INFO - Image Path : artifacts/raw/Images\197.jpeg
+2025-09-19 01:04:17,148 - INFO - Loading Data for index 33
+2025-09-19 01:04:17,148 - INFO - Image Path : artifacts/raw/Images\129.jpeg
+2025-09-19 01:04:17,151 - INFO - Loading Data for index 236
+2025-09-19 01:04:17,151 - INFO - Image Path : artifacts/raw/Images\311.jpeg
+2025-09-19 01:04:17,153 - INFO - Loading Data for index 116
+2025-09-19 01:04:17,153 - INFO - Image Path : artifacts/raw/Images\203.jpeg
+2025-09-19 01:04:38,619 - INFO - Loading Data for index 128
+2025-09-19 01:04:38,619 - INFO - Image Path : artifacts/raw/Images\214.jpeg
+2025-09-19 01:04:38,621 - INFO - Loading Data for index 207
+2025-09-19 01:04:38,621 - INFO - Image Path : artifacts/raw/Images\286.jpeg
+2025-09-19 01:04:38,622 - INFO - Loading Data for index 186
+2025-09-19 01:04:38,622 - INFO - Image Path : artifacts/raw/Images\267.jpeg
+2025-09-19 01:05:09,719 - INFO - Loading Data for index 226
+2025-09-19 01:05:09,719 - INFO - Image Path : artifacts/raw/Images\302.jpeg
+2025-09-19 01:05:09,722 - INFO - Loading Data for index 265
+2025-09-19 01:05:09,722 - INFO - Image Path : artifacts/raw/Images\38.jpeg
+2025-09-19 01:05:09,724 - INFO - Loading Data for index 230
+2025-09-19 01:05:09,725 - INFO - Image Path : artifacts/raw/Images\306.jpeg
+2025-09-19 01:05:34,544 - INFO - Loading Data for index 178
+2025-09-19 01:05:34,544 - INFO - Image Path : artifacts/raw/Images\26.jpeg
+2025-09-19 01:05:34,546 - INFO - Loading Data for index 123
+2025-09-19 01:05:34,546 - INFO - Image Path : artifacts/raw/Images\21.jpeg
+2025-09-19 01:05:34,547 - INFO - Loading Data for index 81
+2025-09-19 01:05:34,547 - INFO - Image Path : artifacts/raw/Images\172.jpeg
+2025-09-19 01:05:50,516 - INFO - Loading Data for index 275
+2025-09-19 01:05:50,516 - INFO - Image Path : artifacts/raw/Images\47.jpeg
+2025-09-19 01:05:50,518 - INFO - Loading Data for index 277
+2025-09-19 01:05:50,518 - INFO - Image Path : artifacts/raw/Images\49.jpeg
+2025-09-19 01:05:50,520 - INFO - Loading Data for index 93
+2025-09-19 01:05:50,520 - INFO - Image Path : artifacts/raw/Images\183.jpeg
+2025-09-19 01:06:15,914 - INFO - Loading Data for index 39
+2025-09-19 01:06:15,914 - INFO - Image Path : artifacts/raw/Images\134.jpeg
+2025-09-19 01:06:15,915 - INFO - Loading Data for index 99
+2025-09-19 01:06:15,915 - INFO - Image Path : artifacts/raw/Images\189.jpeg
+2025-09-19 01:06:15,917 - INFO - Loading Data for index 156
+2025-09-19 01:06:15,917 - INFO - Image Path : artifacts/raw/Images\24.jpeg
+2025-09-19 01:06:43,005 - INFO - Loading Data for index 1
+2025-09-19 01:06:43,005 - INFO - Image Path : artifacts/raw/Images\10.jpeg
+2025-09-19 01:06:43,007 - INFO - Loading Data for index 179
+2025-09-19 01:06:43,007 - INFO - Image Path : artifacts/raw/Images\260.jpeg
+2025-09-19 01:06:43,008 - INFO - Loading Data for index 76
+2025-09-19 01:06:43,008 - INFO - Image Path : artifacts/raw/Images\168.jpeg
+2025-09-19 01:07:21,748 - INFO - Loading Data for index 97
+2025-09-19 01:07:21,748 - INFO - Image Path : artifacts/raw/Images\187.jpeg
+2025-09-19 01:07:21,753 - INFO - Loading Data for index 292
+2025-09-19 01:07:21,754 - INFO - Image Path : artifacts/raw/Images\62.jpeg
+2025-09-19 01:07:21,757 - INFO - Loading Data for index 197
+2025-09-19 01:07:21,757 - INFO - Image Path : artifacts/raw/Images\277.jpeg
+2025-09-19 01:07:46,543 - INFO - Loading Data for index 203
+2025-09-19 01:07:46,543 - INFO - Image Path : artifacts/raw/Images\282.jpeg
+2025-09-19 01:07:46,545 - INFO - Loading Data for index 78
+2025-09-19 01:07:46,545 - INFO - Image Path : artifacts/raw/Images\17.jpeg
+2025-09-19 01:07:46,546 - INFO - Loading Data for index 285
+2025-09-19 01:07:46,546 - INFO - Image Path : artifacts/raw/Images\56.jpeg
+2025-09-19 01:08:16,165 - INFO - Loading Data for index 25
+2025-09-19 01:08:16,165 - INFO - Image Path : artifacts/raw/Images\121.jpeg
+2025-09-19 01:08:16,167 - INFO - Loading Data for index 23
+2025-09-19 01:08:16,167 - INFO - Image Path : artifacts/raw/Images\12.jpeg
+2025-09-19 01:08:16,170 - INFO - Loading Data for index 234
+2025-09-19 01:08:16,170 - INFO - Image Path : artifacts/raw/Images\31.jpeg
+2025-09-19 01:08:53,042 - INFO - Loading Data for index 171
+2025-09-19 01:08:53,042 - INFO - Image Path : artifacts/raw/Images\253.jpeg
+2025-09-19 01:08:53,048 - INFO - Loading Data for index 170
+2025-09-19 01:08:53,048 - INFO - Image Path : artifacts/raw/Images\252.jpeg
+2025-09-19 01:08:53,053 - INFO - Loading Data for index 241
+2025-09-19 01:08:53,053 - INFO - Image Path : artifacts/raw/Images\316.jpeg
+2025-09-19 01:09:27,617 - INFO - Loading Data for index 201
+2025-09-19 01:09:27,617 - INFO - Image Path : artifacts/raw/Images\280.jpeg
+2025-09-19 01:09:27,620 - INFO - Loading Data for index 91
+2025-09-19 01:09:27,620 - INFO - Image Path : artifacts/raw/Images\181.jpeg
+2025-09-19 01:09:27,622 - INFO - Loading Data for index 163
+2025-09-19 01:09:27,622 - INFO - Image Path : artifacts/raw/Images\246.jpeg
+2025-09-19 01:09:48,598 - INFO - Loading Data for index 48
+2025-09-19 01:09:48,598 - INFO - Image Path : artifacts/raw/Images\142.jpeg
+2025-09-19 01:09:48,601 - INFO - Loading Data for index 55
+2025-09-19 01:09:48,601 - INFO - Image Path : artifacts/raw/Images\149.jpeg
+2025-09-19 01:09:48,601 - INFO - Loading Data for index 144
+2025-09-19 01:09:48,601 - INFO - Image Path : artifacts/raw/Images\229.jpeg
+2025-09-19 01:10:07,321 - INFO - Loading Data for index 151
+2025-09-19 01:10:07,322 - INFO - Image Path : artifacts/raw/Images\235.jpeg
+2025-09-19 01:10:07,324 - INFO - Loading Data for index 120
+2025-09-19 01:10:07,324 - INFO - Image Path : artifacts/raw/Images\207.jpeg
+2025-09-19 01:10:07,325 - INFO - Loading Data for index 231
+2025-09-19 01:10:07,325 - INFO - Image Path : artifacts/raw/Images\307.jpeg
+2025-09-19 01:10:39,188 - INFO - Loading Data for index 273
+2025-09-19 01:10:39,188 - INFO - Image Path : artifacts/raw/Images\45.jpeg
+2025-09-19 01:10:39,197 - INFO - Loading Data for index 3
+2025-09-19 01:10:39,197 - INFO - Image Path : artifacts/raw/Images\101.jpeg
+2025-09-19 01:10:39,199 - INFO - Loading Data for index 153
+2025-09-19 01:10:39,199 - INFO - Image Path : artifacts/raw/Images\237.jpeg
+2025-09-19 01:11:00,480 - INFO - Loading Data for index 243
+2025-09-19 01:11:00,482 - INFO - Image Path : artifacts/raw/Images\318.jpeg
+2025-09-19 01:11:00,484 - INFO - Loading Data for index 195
+2025-09-19 01:11:00,485 - INFO - Image Path : artifacts/raw/Images\275.jpeg
+2025-09-19 01:11:00,487 - INFO - Loading Data for index 133
+2025-09-19 01:11:00,487 - INFO - Image Path : artifacts/raw/Images\219.jpeg
+2025-09-19 01:11:23,529 - INFO - Loading Data for index 20
+2025-09-19 01:11:23,529 - INFO - Image Path : artifacts/raw/Images\117.jpeg
+2025-09-19 01:11:23,531 - INFO - Loading Data for index 100
+2025-09-19 01:11:23,531 - INFO - Image Path : artifacts/raw/Images\19.jpeg
+2025-09-19 01:11:23,532 - INFO - Loading Data for index 223
+2025-09-19 01:11:23,532 - INFO - Image Path : artifacts/raw/Images\30.jpeg
+2025-09-19 01:12:06,782 - INFO - Loading Data for index 196
+2025-09-19 01:12:06,782 - INFO - Image Path : artifacts/raw/Images\276.jpeg
+2025-09-19 01:12:06,784 - INFO - Loading Data for index 88
+2025-09-19 01:12:06,785 - INFO - Image Path : artifacts/raw/Images\179.jpeg
+2025-09-19 01:12:06,787 - INFO - Loading Data for index 289
+2025-09-19 01:12:06,787 - INFO - Image Path : artifacts/raw/Images\6.jpeg
+2025-09-19 01:12:33,517 - INFO - Loading Data for index 75
+2025-09-19 01:12:33,517 - INFO - Image Path : artifacts/raw/Images\167.jpeg
+2025-09-19 01:12:33,520 - INFO - Loading Data for index 239
+2025-09-19 01:12:33,520 - INFO - Image Path : artifacts/raw/Images\314.jpeg
+2025-09-19 01:12:33,523 - INFO - Loading Data for index 202
+2025-09-19 01:12:33,523 - INFO - Image Path : artifacts/raw/Images\281.jpeg
+2025-09-19 01:13:11,786 - INFO - Loading Data for index 193
+2025-09-19 01:13:11,786 - INFO - Image Path : artifacts/raw/Images\273.jpeg
+2025-09-19 01:13:11,788 - INFO - Loading Data for index 258
+2025-09-19 01:13:11,788 - INFO - Image Path : artifacts/raw/Images\331.jpeg
+2025-09-19 01:13:11,790 - INFO - Loading Data for index 129
+2025-09-19 01:13:11,790 - INFO - Image Path : artifacts/raw/Images\215.jpeg
+2025-09-19 01:13:35,331 - INFO - Loading Data for index 206
+2025-09-19 01:13:35,331 - INFO - Image Path : artifacts/raw/Images\285.jpeg
+2025-09-19 01:13:35,333 - INFO - Loading Data for index 220
+2025-09-19 01:13:35,333 - INFO - Image Path : artifacts/raw/Images\298.jpeg
+2025-09-19 01:13:35,335 - INFO - Loading Data for index 114
+2025-09-19 01:13:35,335 - INFO - Image Path : artifacts/raw/Images\201.jpeg
+2025-09-19 01:14:00,016 - INFO - Loading Data for index 215
+2025-09-19 01:14:00,016 - INFO - Image Path : artifacts/raw/Images\293.jpeg
+2025-09-19 01:14:00,019 - INFO - Loading Data for index 284
+2025-09-19 01:14:00,020 - INFO - Image Path : artifacts/raw/Images\55.jpeg
+2025-09-19 01:14:00,021 - INFO - Loading Data for index 157
+2025-09-19 01:14:00,021 - INFO - Image Path : artifacts/raw/Images\240.jpeg
+2025-09-19 01:14:33,170 - INFO - Loading Data for index 247
+2025-09-19 01:14:33,170 - INFO - Image Path : artifacts/raw/Images\321.jpeg
+2025-09-19 01:14:33,170 - INFO - Loading Data for index 276
+2025-09-19 01:14:33,170 - INFO - Image Path : artifacts/raw/Images\48.jpeg
+2025-09-19 01:14:33,177 - INFO - Loading Data for index 106
+2025-09-19 01:14:33,177 - INFO - Image Path : artifacts/raw/Images\195.jpeg
+2025-09-19 01:14:53,855 - INFO - Loading Data for index 38
+2025-09-19 01:14:53,855 - INFO - Image Path : artifacts/raw/Images\133.jpeg
+2025-09-19 01:14:53,860 - INFO - Loading Data for index 268
+2025-09-19 01:14:53,860 - INFO - Image Path : artifacts/raw/Images\40.jpeg
+2025-09-19 01:14:53,861 - INFO - Loading Data for index 159
+2025-09-19 01:14:53,861 - INFO - Image Path : artifacts/raw/Images\242.jpeg
+2025-09-19 01:15:14,982 - INFO - Loading Data for index 177
+2025-09-19 01:15:14,983 - INFO - Image Path : artifacts/raw/Images\259.jpeg
+2025-09-19 01:15:14,984 - INFO - Loading Data for index 147
+2025-09-19 01:15:14,984 - INFO - Image Path : artifacts/raw/Images\231.jpeg
+2025-09-19 01:15:14,986 - INFO - Loading Data for index 217
+2025-09-19 01:15:14,986 - INFO - Image Path : artifacts/raw/Images\295.jpeg
+2025-09-19 01:15:35,181 - INFO - Loading Data for index 210
+2025-09-19 01:15:35,182 - INFO - Image Path : artifacts/raw/Images\289.jpeg
+2025-09-19 01:15:35,184 - INFO - Loading Data for index 257
+2025-09-19 01:15:35,184 - INFO - Image Path : artifacts/raw/Images\330.jpeg
+2025-09-19 01:15:35,186 - INFO - Loading Data for index 34
+2025-09-19 01:15:35,186 - INFO - Image Path : artifacts/raw/Images\13.jpeg
+2025-09-19 01:15:54,599 - INFO - Loading Data for index 53
+2025-09-19 01:15:54,599 - INFO - Image Path : artifacts/raw/Images\147.jpeg
+2025-09-19 01:15:54,603 - INFO - Loading Data for index 57
+2025-09-19 01:15:54,603 - INFO - Image Path : artifacts/raw/Images\150.jpeg
+2025-09-19 01:15:54,606 - INFO - Loading Data for index 86
+2025-09-19 01:15:54,606 - INFO - Image Path : artifacts/raw/Images\177.jpeg
+2025-09-19 01:16:02,116 - INFO - <class 'list'>
+2025-09-19 01:16:02,144 - INFO - VAL_LOSS : [{'boxes': tensor([[ 97.1391,  52.6352, 231.4173, 114.7423],
+        [158.1143,  96.7075, 206.3248, 122.3546],
+        [ 16.4969,  67.3610, 101.4893, 136.7969],
+        [128.5569,  56.3672, 239.6397,  98.5277],
+        [ 85.5262,  42.7719, 261.0300, 170.7732],
+        [ 56.3228,  58.5026, 105.4830,  85.6705],
+        [156.1614,  93.3048, 207.5809, 145.8323],
+        [ 11.9306,  45.9812, 112.4590, 168.7231],
+        [107.3166,  63.2822, 200.1134, 105.0386],
+        [143.7612,  43.3777, 244.0578, 152.9470],
+        [137.4322,  90.9395, 209.9378, 178.6591],
+        [ 25.7885,  63.2459, 238.0507, 136.7541],
+        [124.7810, 135.2239, 195.9691, 172.9921],
+        [ 98.9181,  55.4352, 179.9346, 130.4682],
+        [ 96.3545,  69.0927, 158.8343, 100.3811],
+        [146.5422,  88.1345, 220.5977, 124.2501],
+        [ 11.0789,  80.3090, 185.7999, 174.1679],
+        [ 27.2035,  83.1495, 136.9733, 146.8909],
+        [ 52.4358,  54.9501, 105.3099, 126.2004],
+        [ 97.5175,  84.4864, 235.1272, 163.6847],
+        [119.2869,  91.6769, 211.9599, 138.6844],
+        [144.4604, 131.4873, 182.3145, 169.0812],
+        [ 42.6076, 104.0849, 230.8239, 178.6006],
+        [ 33.3864,  84.6222,  91.8151, 123.1466],
+        [151.0598,  74.3100, 231.1022, 139.4951],
+        [148.0819,  75.0773, 266.7838, 176.5455],
+        [ 14.3697,  81.2957,  88.4920, 111.6467],
+        [131.8940, 118.0469, 213.6329, 164.2173],
+        [132.1942, 134.5482, 189.2170, 158.6799],
+        [173.3267,  56.0231, 246.9425,  87.7626],
+        [ 12.7447,  57.1872, 105.0306,  96.8023]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8330, 0.8279, 0.7617, 0.7272, 0.6702, 0.6575, 0.6161, 0.5768, 0.5091,
+        0.4836, 0.4408, 0.4337, 0.3943, 0.3143, 0.3012, 0.2972, 0.2805, 0.2524,
+        0.2487, 0.2341, 0.1701, 0.1637, 0.1628, 0.1525, 0.1320, 0.1226, 0.1033,
+        0.0778, 0.0529, 0.0517, 0.0514])}, {'boxes': tensor([[146.3069,  55.2991, 322.5121, 106.7289],
+        [122.2385,  40.2970, 335.5628, 134.5094],
+        [207.2495,  52.5209, 336.0836,  96.7680],
+        [ 61.7526,  61.3922, 159.6800, 137.2969],
+        [158.5598,  47.9525, 239.1765, 120.3731],
+        [ 40.0553,  32.9460, 184.5584, 140.3972],
+        [ 61.7776,  18.2264, 134.5501,  75.4721],
+        [160.6749,  57.8005, 262.2458,  98.0439],
+        [154.4076,  65.4784, 216.7570,  99.5113],
+        [173.9344,  94.0424, 220.7882, 120.1343],
+        [133.4472,  47.7448, 171.2599,  78.1400],
+        [234.5524,  42.4672, 347.6315, 123.7471],
+        [ 34.3944,  63.7330,  83.0734,  96.5662],
+        [185.4823,  52.2319, 277.8449, 125.2941],
+        [ 58.2933,  43.9099, 168.2696, 109.6149],
+        [174.7809,  83.1446, 231.1265, 125.7985],
+        [ 62.9681,  14.8975, 141.3133, 122.2103],
+        [177.8856,  85.0841, 209.3724, 132.3939],
+        [107.1812,  44.3651, 170.8450, 122.7019],
+        [ 54.7967,  40.6545, 255.6307, 121.9808],
+        [ 64.6866,  77.2049, 140.6012, 118.5399]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7990, 0.7013, 0.5501, 0.5377, 0.5067, 0.2847, 0.2678, 0.2186, 0.1680,
+        0.1560, 0.1242, 0.1197, 0.1192, 0.1044, 0.1016, 0.0827, 0.0791, 0.0779,
+        0.0771, 0.0659, 0.0642])}, {'boxes': tensor([[211.4859,  60.8646, 271.3085, 154.0000],
+        [ 31.9357,  62.1865, 174.2818, 103.5414],
+        [143.0918,  39.0976, 242.2354,  79.0089],
+        [ 44.0828,  66.4161, 147.8684,  94.5056],
+        [ 28.1091,  53.8059, 224.3299, 115.2712],
+        [187.1512,  51.5511, 297.8954, 148.7091],
+        [ 34.6601,  68.0129, 104.6893,  88.7108],
+        [104.2703,  37.4614, 297.9320, 135.5906],
+        [116.0144,  34.9004, 245.0645,  99.3279],
+        [140.2208,  45.9740, 210.8820,  73.0317],
+        [ 43.8898,  68.2830, 305.8321, 148.6206],
+        [109.2461,  45.3740, 179.8402, 123.2957],
+        [ 69.7353,  43.9665, 207.4836, 141.7080],
+        [145.3326,  14.3417, 278.0396, 110.7032],
+        [164.3027,  36.2449, 225.5056, 122.4084],
+        [130.5976,  38.8183, 210.9534, 123.1791],
+        [197.4783,  92.6266, 281.5049, 148.7596],
+        [197.0349,  69.8017, 289.2034, 128.1683],
+        [ 91.3199,  83.6469, 149.3192, 105.5378],
+        [ 95.3038,  69.7154, 224.4418, 119.6694],
+        [ 65.8560,  72.9597, 187.0031, 126.9318],
+        [173.7951,  41.2249, 203.0967,  88.1482],
+        [ 21.0762,  58.6245, 163.2869, 140.4552]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8030, 0.6917, 0.6354, 0.5357, 0.5234, 0.4751, 0.4203, 0.3712, 0.3590,
+        0.2626, 0.2537, 0.2451, 0.1884, 0.1673, 0.1037, 0.0961, 0.0938, 0.0828,
+        0.0739, 0.0648, 0.0623, 0.0597, 0.0530])}]
+2025-09-19 01:16:02,144 - INFO - Loading Data for index 46
+2025-09-19 01:16:02,144 - INFO - Image Path : artifacts/raw/Images\140.jpeg
+2025-09-19 01:16:02,151 - INFO - Loading Data for index 216
+2025-09-19 01:16:02,152 - INFO - Image Path : artifacts/raw/Images\294.jpeg
+2025-09-19 01:16:02,152 - INFO - Loading Data for index 209
+2025-09-19 01:16:02,153 - INFO - Image Path : artifacts/raw/Images\288.jpeg
+2025-09-19 01:16:09,204 - INFO - <class 'list'>
+2025-09-19 01:16:09,205 - INFO - VAL_LOSS : [{'boxes': tensor([[146.7311,  92.5712, 219.8510, 143.5267],
+        [ 77.1152,  27.4818, 153.8407,  82.9720],
+        [ 42.9030,  17.2164, 191.3328,  96.0236],
+        [ 19.7943,  15.4512, 237.0202,  61.3020],
+        [ 79.7711,  28.2871, 158.2500, 158.4049],
+        [194.1221,  36.7078, 226.4624,  54.9975],
+        [ 38.8447,  13.9146, 223.6061, 143.3574],
+        [ 90.8716,  77.6281, 236.5814, 153.1183],
+        [ 78.5439,  29.9946, 122.6024,  69.2017],
+        [ 39.0648,  19.2549, 111.6977,  81.1176],
+        [160.2531,  19.9401, 214.9427,  62.4184],
+        [155.9638, 105.8406, 215.8800, 135.6456],
+        [ 61.5748,  10.8541, 272.4854,  83.6536],
+        [108.2767, 104.9549, 154.7247, 156.4032],
+        [138.1956,  51.5877, 220.5645, 164.9321],
+        [106.0049,  12.1705, 166.0770, 105.7564],
+        [ 46.9174,  21.8942, 156.6616,  66.1049],
+        [ 92.9269,  23.9334, 254.0098, 118.3399],
+        [145.7465,  16.4030, 234.5337, 139.4292],
+        [ 31.1620,  61.6620,  87.2762,  84.1862],
+        [ 73.9472,  82.0051, 146.9469, 126.7708],
+        [ 38.3177,  38.8395, 163.3665, 122.6854],
+        [121.2645,  57.7217, 214.1073, 106.0630],
+        [ 32.2356,  28.6344,  86.3040,  61.2614],
+        [ 86.2585,  91.0404, 151.5978, 158.6131],
+        [158.2276,  29.6245, 255.6497,  67.4706],
+        [ 88.3518,  49.7257, 205.8271,  96.2302],
+        [ 35.3890,  17.1567, 118.9029, 144.3655],
+        [ 91.1336,  10.4012, 184.3215,  67.9218],
+        [ 62.6672,  61.0030, 203.7359, 142.9929],
+        [147.6261,  21.1240, 226.5898,  89.3346],
+        [124.3279,  77.2592, 212.5750, 135.7566],
+        [125.4234,  14.4321, 284.9280, 162.6184],
+        [163.8022,  16.8869, 273.0567, 122.6743],
+        [  0.0000,  10.6111, 253.3302,  43.0354]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7012, 0.6779, 0.6106, 0.3842, 0.3735, 0.3730, 0.3310, 0.3081, 0.2913,
+        0.2732, 0.2707, 0.2491, 0.2023, 0.1939, 0.1907, 0.1888, 0.1888, 0.1503,
+        0.1441, 0.1246, 0.1148, 0.1122, 0.1068, 0.0982, 0.0981, 0.0879, 0.0826,
+        0.0804, 0.0776, 0.0775, 0.0660, 0.0656, 0.0537, 0.0530, 0.0514])}, {'boxes': tensor([[167.3207,  30.7627, 214.2815,  86.5797],
+        [210.4710,  19.8998, 329.7595,  66.6115],
+        [169.2773,  22.1918, 226.0347, 124.6790],
+        [ 46.9866,  84.2854,  83.5061, 116.2400],
+        [172.2069,  20.4463, 326.4662, 111.2937],
+        [176.9974,  63.0693, 222.1545,  94.0320],
+        [ 28.8932,  65.7863, 115.5175, 116.1066],
+        [175.3826,  67.6802, 225.1447, 126.8920],
+        [184.9927,  71.8225, 229.6738,  96.4339],
+        [215.8525,  24.2072, 306.3208,  91.5698],
+        [180.6418,  67.4111, 285.6770, 113.7648],
+        [ 77.2080,  48.3180, 117.8552, 134.4918],
+        [274.0863,  80.1695, 334.2654, 134.1521],
+        [ 89.7914,  55.2184, 117.9001, 111.6476],
+        [ 84.5382,  10.7055, 337.2629,  79.1398],
+        [ 15.3657,  32.8915, 129.4784, 141.6834],
+        [ 70.7163,  12.8396, 341.0000, 135.8112],
+        [214.2809,  26.7314, 298.1930,  57.0329],
+        [192.2930,  62.3609, 220.5236, 107.0014],
+        [167.2604,  35.1815, 270.7158, 128.7460],
+        [ 39.4778,  51.2590,  96.1978, 129.4308],
+        [170.3596,  35.7191, 208.4059,  63.8214],
+        [182.1510,  49.4367, 216.1089, 117.2959],
+        [159.3141,  30.1655, 268.8417,  80.1713],
+        [238.3349,  26.8902, 291.6739, 117.3134],
+        [116.3314,  24.0642, 251.8525, 106.6970],
+        [212.1826,  48.8838, 294.2455, 107.7912],
+        [232.4168,  79.2984, 330.2420, 124.8215],
+        [138.4931,  81.4066, 335.8510, 142.8215],
+        [228.5408,  77.3070, 288.7929, 105.3989],
+        [ 54.6370,  53.4156, 124.0332,  99.7554],
+        [170.2143,  93.3956, 222.3136, 122.1510],
+        [ 42.6167,  82.9686, 128.6740, 132.8978],
+        [259.9774,  75.2273, 286.7627, 108.4501],
+        [ 80.8190,  58.2158, 119.3361,  88.9724]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8409, 0.7029, 0.5933, 0.5725, 0.5606, 0.4374, 0.3499, 0.2978, 0.2601,
+        0.2506, 0.2355, 0.2331, 0.2264, 0.2215, 0.1859, 0.1808, 0.1655, 0.1538,
+        0.1460, 0.1450, 0.1372, 0.1286, 0.1204, 0.0975, 0.0948, 0.0870, 0.0820,
+        0.0815, 0.0787, 0.0687, 0.0661, 0.0599, 0.0599, 0.0596, 0.0568])}, {'boxes': tensor([[235.4338,  11.8894, 301.6440,  50.7271],
+        [ 69.3232,  56.1271, 104.8977,  87.3023],
+        [118.4763,  48.6427, 202.0242, 100.8360],
+        [189.7398,  41.1374, 270.2665, 105.9630],
+        [116.7943,  14.2685, 306.0294, 105.7544],
+        [201.8709,   5.6399, 303.7570,  78.9916],
+        [112.6143,  17.0546, 207.7522, 119.1900],
+        [ 34.6023,  54.5945, 112.9827,  95.6528],
+        [ 96.7822,  39.1479, 262.7340, 131.3537],
+        [154.0736,  12.5141, 301.6329,  53.2223],
+        [ 69.1913,   9.2921, 318.5631,  62.7992],
+        [128.3786,  11.8025, 199.7597,  58.3730],
+        [199.6487,  61.2760, 266.6028, 129.3526],
+        [132.7756,  50.9092, 254.1064,  99.6130],
+        [190.4517,  48.8707, 249.3544,  91.3479],
+        [ 33.2252,  64.1568,  60.9689,  91.7922],
+        [  0.0000, 103.5013, 108.5316, 145.0000],
+        [143.3354,  47.6290, 317.6342, 125.0931],
+        [ 60.7300,  44.6669, 113.9077, 106.8589],
+        [203.7508,   6.2960, 338.3301, 123.9425],
+        [  0.0000,  48.3663, 131.9452, 145.0000]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.9250, 0.7608, 0.6567, 0.4654, 0.4282, 0.3300, 0.3147, 0.3038, 0.1784,
+        0.1779, 0.1533, 0.1467, 0.1295, 0.1295, 0.1236, 0.1165, 0.1115, 0.0635,
+        0.0605, 0.0589, 0.0507])}]
+2025-09-19 01:16:09,205 - INFO - Loading Data for index 272
+2025-09-19 01:16:09,205 - INFO - Image Path : artifacts/raw/Images\44.jpeg
+2025-09-19 01:16:09,214 - INFO - Loading Data for index 47
+2025-09-19 01:16:09,214 - INFO - Image Path : artifacts/raw/Images\141.jpeg
+2025-09-19 01:16:09,214 - INFO - Loading Data for index 66
+2025-09-19 01:16:09,214 - INFO - Image Path : artifacts/raw/Images\159.jpeg
+2025-09-19 01:16:19,533 - INFO - <class 'list'>
+2025-09-19 01:16:19,541 - INFO - VAL_LOSS : [{'boxes': tensor([[  4.8061,  61.0992, 130.6837, 106.1844],
+        [  0.0000,   7.3865, 146.5980,  55.0431],
+        [  6.3234,  51.9783, 153.2267, 142.1688],
+        [ 10.1984,  10.0279,  93.6171,  47.6888],
+        [  1.6380,   2.6398, 154.3158, 120.0732],
+        [ 53.7820,  13.7254, 154.8615,  48.8206],
+        [ 53.0303,  66.3003, 149.7871,  93.4644],
+        [  2.2368,  62.8600,  85.6568,  98.3114],
+        [ 30.9084,  26.0392, 151.4301, 196.4389],
+        [ 47.2210,   0.7271, 154.8970,  77.4844],
+        [  6.6496,  15.4955,  62.6942,  44.6265],
+        [  9.3516,  17.9099,  84.7791, 104.6622],
+        [ 40.4805,  62.2286,  78.2423, 102.4259],
+        [  7.8918, 116.6702, 150.6322, 231.5698],
+        [  7.8328, 183.1554, 149.5037, 298.1684],
+        [  5.6729,  72.6059,  55.5938,  94.6622],
+        [ 60.2641,  57.7952, 160.3896, 257.0021],
+        [ 59.6727,   9.7626,  89.0236,  53.6806],
+        [104.2149,  64.4131, 143.6782,  86.9111],
+        [ 42.7340,  11.2739,  83.4089,  51.6498]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8527, 0.8017, 0.6143, 0.6076, 0.5898, 0.5255, 0.5138, 0.4867, 0.3329,
+        0.1464, 0.1402, 0.1162, 0.0922, 0.0884, 0.0857, 0.0840, 0.0722, 0.0681,
+        0.0633, 0.0588])}, {'boxes': tensor([[2.9899e+01, 1.4617e+02, 8.8851e+01, 1.7718e+02],
+        [5.6097e+01, 6.4544e+01, 1.9067e+02, 1.1240e+02],
+        [1.9593e+01, 5.4727e+01, 2.0462e+02, 1.4529e+02],
+        [6.6665e-02, 3.5771e+01, 2.1205e+02, 2.1257e+02],
+        [2.4824e+01, 1.3571e+02, 9.2876e+01, 1.9111e+02],
+        [2.4465e+01, 5.9631e+01, 6.8137e+01, 9.1572e+01],
+        [1.9887e+01, 6.1268e+01, 1.2105e+02, 1.6056e+02],
+        [3.4159e+01, 7.2413e+01, 1.6724e+02, 1.2460e+02],
+        [8.7936e+01, 5.1894e+01, 2.1497e+02, 1.7046e+02],
+        [5.0334e+01, 1.5224e+02, 9.3752e+01, 1.7974e+02],
+        [2.2110e+01, 5.8461e+01, 8.3836e+01, 1.4244e+02],
+        [3.3070e+01, 9.0541e+01, 1.0066e+02, 1.9257e+02]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8518, 0.7738, 0.7216, 0.5090, 0.3574, 0.2073, 0.1999, 0.1088, 0.0776,
+        0.0729, 0.0618, 0.0547])}, {'boxes': tensor([[167.3078,  62.5563, 233.1578,  91.9474],
+        [ 67.9303,  61.9462, 128.4868,  90.9294],
+        [ 66.0720,  59.0451, 225.8349, 163.9649],
+        [162.4686,  55.4694, 237.6997, 109.0285],
+        [  2.4373,   9.0401,  53.7191,  70.2124],
+        [ 22.1852, 105.1956,  97.7976, 163.4406],
+        [ 91.6125,  73.9493, 199.5516, 149.1101],
+        [  5.4259,  79.3517, 200.6072, 174.7420],
+        [ 13.3736,  36.2019,  54.5061,  64.3120],
+        [ 87.1765,  60.7451, 238.6622, 113.9134],
+        [ 50.3262,  60.1974, 144.0444,  99.4042],
+        [ 90.2399,  66.2571, 135.7540,  92.7806],
+        [  5.1654,  75.9597, 106.9885, 166.6842],
+        [ 23.8420,  17.6688,  58.7064,  69.6297],
+        [132.3197,  41.4891, 240.3876, 165.2178],
+        [ 36.3820,  55.6230, 134.0020, 129.7865],
+        [  0.0000,  10.1063,  63.6457,  44.0868],
+        [138.8439,  63.2056, 226.4525, 130.1126],
+        [194.1617,  65.1914, 242.6218,  87.2114],
+        [ 65.6617,  63.7926, 115.6244,  81.6119]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8973, 0.8790, 0.6484, 0.5667, 0.5551, 0.4482, 0.4280, 0.3664, 0.3457,
+        0.2624, 0.2481, 0.1825, 0.1700, 0.1555, 0.1448, 0.1147, 0.1110, 0.0598,
+        0.0522, 0.0517])}]
+2025-09-19 01:16:19,541 - INFO - Loading Data for index 131
+2025-09-19 01:16:19,541 - INFO - Image Path : artifacts/raw/Images\217.jpeg
+2025-09-19 01:16:19,542 - INFO - Loading Data for index 214
+2025-09-19 01:16:19,542 - INFO - Image Path : artifacts/raw/Images\292.jpeg
+2025-09-19 01:16:19,543 - INFO - Loading Data for index 212
+2025-09-19 01:16:19,543 - INFO - Image Path : artifacts/raw/Images\290.jpeg
+2025-09-19 01:16:27,079 - INFO - <class 'list'>
+2025-09-19 01:16:27,079 - INFO - VAL_LOSS : [{'boxes': tensor([[ 96.3992,  34.8187, 169.3985,  74.7846],
+        [142.0054,  68.3052, 269.7670, 142.7764],
+        [165.2238,  76.0027, 238.1992, 133.3619],
+        [ 95.3991,  25.1102, 183.9415, 116.0708],
+        [104.2230,  38.9330, 275.6896, 168.2088],
+        [ 71.7493,  28.3095, 197.4617,  79.3079],
+        [100.1366,  40.6539, 158.8042,  64.8076],
+        [109.7596,  29.3428, 206.5582, 154.3853],
+        [221.9001,  91.7306, 277.5128, 142.9409],
+        [180.9197,  69.2031, 240.5103, 165.9261],
+        [120.1365,  36.7406, 150.0861,  69.1780],
+        [173.4088,  88.2277, 225.4258, 126.0691],
+        [133.5231,  35.8698, 165.6528,  66.2129],
+        [171.1798,  89.4212, 275.9189, 136.9131],
+        [ 97.9654,  48.5150, 147.2054,  73.9087],
+        [109.8324,  37.9629, 275.9380, 104.7582],
+        [137.4792,  36.8955, 187.8926, 107.1658],
+        [ 32.9296,  23.0026, 203.5797,  99.2578],
+        [231.4899,  99.7268, 278.7693, 124.3657]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.9382, 0.6379, 0.5764, 0.4976, 0.4647, 0.2647, 0.2005, 0.1935, 0.1792,
+        0.1612, 0.1445, 0.1362, 0.1345, 0.1108, 0.0810, 0.0744, 0.0722, 0.0628,
+        0.0513])}, {'boxes': tensor([[ 31.5584,  23.3746, 150.4359,  96.4180],
+        [ 82.5548,  40.2740, 153.3053, 100.0850],
+        [ 47.3710,  25.9423, 154.4873, 166.1015],
+        [101.8357,  47.7877, 156.1737, 125.1544],
+        [  0.8257,  22.7145, 222.9590, 118.8042],
+        [ 31.5943,  21.2023,  66.5203,  49.7083],
+        [ 40.2211,  36.5231, 148.0066,  75.1074],
+        [ 96.4214,  56.1938, 150.5783,  85.5495],
+        [101.6325, 126.9074, 151.1739, 142.9830],
+        [ 69.5697,  28.2931, 184.2539, 128.2989],
+        [ 84.3081,  72.9160, 160.4379, 119.8615],
+        [ 88.0794, 101.5261, 151.0705, 138.6142],
+        [105.2143,  48.5864, 138.0434, 100.4337],
+        [ 20.9185,  36.8155, 234.8692, 170.5934],
+        [104.1449,  79.0824, 148.9053, 103.3714],
+        [ 90.7264,  55.4230, 180.0651, 169.2958],
+        [ 34.2914,  27.3049, 124.9875,  61.0643],
+        [ 94.4604,  39.0242, 125.6933,  92.4075],
+        [105.4098,  69.2900, 152.1735, 150.7978],
+        [ 82.5614,  48.3433, 143.6322,  80.2438],
+        [111.6167,  57.7937, 143.8498, 115.0286],
+        [ 64.5448,  38.7099, 132.3457, 122.6985],
+        [ 30.6240,  25.3818,  88.9378,  55.2828]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7874, 0.6199, 0.5339, 0.3889, 0.3675, 0.2761, 0.2681, 0.2409, 0.1428,
+        0.1294, 0.1194, 0.1137, 0.1109, 0.1074, 0.0976, 0.0964, 0.0946, 0.0776,
+        0.0768, 0.0732, 0.0720, 0.0674, 0.0671])}, {'boxes': tensor([[180.9544,  41.6790, 233.6866,  68.9340],
+        [ 91.9821,  48.8171, 196.9620, 113.6110],
+        [ 34.0208,  44.3942, 222.5354, 123.2989],
+        [157.6143,  37.3279, 233.8884,  87.7286],
+        [ 11.5589,  59.8849, 112.6241, 163.0559],
+        [ 49.4134,   8.8744,  75.0035,  30.5786],
+        [ 86.5942,  34.7472, 229.3227, 165.9041],
+        [  4.0150,  59.2479, 126.0632, 101.6173],
+        [ 71.8225,  23.3847, 262.5688, 105.9379],
+        [ 36.7263,  18.2947, 103.3806,  53.6659],
+        [ 18.7594,  83.6972, 100.8423, 141.1554],
+        [ 42.8430,   7.5195,  75.4151,  55.4411],
+        [121.3675,  46.6933, 226.1194,  96.0175],
+        [161.4766,  39.9222, 256.8831,  64.9329],
+        [ 45.6470,  62.9914, 184.9051, 111.7157],
+        [  2.4325,  38.8501, 192.1199, 158.9969],
+        [ 19.8267,  20.6775, 134.5876, 135.2333],
+        [ 56.1369,  63.1996, 111.4851, 140.8929]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8167, 0.5642, 0.5082, 0.3841, 0.3097, 0.2661, 0.2587, 0.2557, 0.2131,
+        0.2022, 0.1428, 0.1420, 0.1171, 0.0687, 0.0624, 0.0604, 0.0600, 0.0529])}]
+2025-09-19 01:16:27,079 - INFO - Loading Data for index 40
+2025-09-19 01:16:27,079 - INFO - Image Path : artifacts/raw/Images\135.jpeg
+2025-09-19 01:16:27,087 - INFO - Loading Data for index 70
+2025-09-19 01:16:27,087 - INFO - Image Path : artifacts/raw/Images\162.jpeg
+2025-09-19 01:16:27,088 - INFO - Loading Data for index 115
+2025-09-19 01:16:27,088 - INFO - Image Path : artifacts/raw/Images\202.jpeg
+2025-09-19 01:16:34,418 - INFO - <class 'list'>
+2025-09-19 01:16:34,432 - INFO - VAL_LOSS : [{'boxes': tensor([[ 72.9629,   7.6251, 189.0666,  60.6537],
+        [ 89.1146,   9.8129, 196.7700, 120.0871],
+        [ 62.3225,  54.0400, 168.9725,  98.0818],
+        [ 17.5115,  31.6168, 189.1727, 119.2723],
+        [149.7665,  21.0336, 196.3156,  73.9830],
+        [ 87.9773,  62.7069, 192.4260, 107.4838],
+        [ 88.3692,  33.7860, 151.8794, 106.9641],
+        [ 31.3468,   5.7800, 261.1020,  66.2182],
+        [134.0458,  14.1331, 193.8574, 102.1118],
+        [ 52.9797,  14.8966, 253.8203, 106.4930],
+        [ 28.4525,  12.2493, 232.4142,  45.5081],
+        [102.6585,  12.3939, 202.1481,  50.4310],
+        [ 17.7528,   5.5279, 227.1198, 149.5648],
+        [105.5556,   8.5208, 171.8360,  96.2238],
+        [104.3633,  22.6191, 198.3411,  74.8253],
+        [101.1757,  50.2418, 155.6617, 125.7972],
+        [ 67.0000,  58.0080, 134.6772, 129.7494],
+        [ 28.1261,  67.8238, 139.9522, 120.4830],
+        [ 81.2057,  40.9609, 205.0957, 151.7987],
+        [151.5880,  14.0875, 184.9865,  46.7851]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.5763, 0.4446, 0.3638, 0.3084, 0.2737, 0.2024, 0.1800, 0.1620, 0.1454,
+        0.1392, 0.1357, 0.1283, 0.1153, 0.1123, 0.1041, 0.0845, 0.0732, 0.0706,
+        0.0660, 0.0575])}, {'boxes': tensor([[  3.1057, 104.4032,  30.8880, 139.9648],
+        [123.5287,  38.4559, 280.9518, 119.1257],
+        [ 82.6675,  84.7748, 142.3137, 161.8055],
+        [ 87.7511,  93.5975, 140.0882, 127.8709],
+        [ 83.6218,  29.7357, 177.4970,  79.9788],
+        [184.7393,  46.9626, 260.5009,  94.6741],
+        [ 40.8346,  24.2581, 189.5274, 111.0107],
+        [ 44.3902,  11.6550,  97.8336,  38.6816],
+        [  1.9985,  83.4870,  49.3192, 114.7127],
+        [ 79.7257,  35.8438, 253.6018, 153.9513],
+        [  1.7779,  71.5324,  58.9736, 126.8960],
+        [ 46.2236,  33.5934, 120.5151,  90.1888],
+        [ 20.7478,  91.5399, 186.3316, 168.7475],
+        [  2.4903, 113.5078,  96.0858, 156.3196],
+        [ 54.0858,  35.9389, 159.6527, 163.1443],
+        [ 42.9426,  38.4221, 100.0842,  71.7614],
+        [215.3385,  55.4330, 260.9810,  90.9942],
+        [ 76.6361,  73.3721, 209.5496, 164.3056],
+        [ 74.5142, 114.1610, 157.3157, 161.5711],
+        [110.3563,  25.6175, 140.4264,  42.7602],
+        [147.2779,  53.7468, 255.7827, 112.1572],
+        [187.3690,  32.7116, 264.7373, 124.2389],
+        [ 86.6749, 119.7585, 130.9470, 158.4294],
+        [  0.0000,  88.7759,  41.8039, 146.5846],
+        [200.5771,  56.2378, 288.0520,  88.6083],
+        [ 64.7431,  34.0680, 163.0493,  97.9138],
+        [171.1894,  23.0083, 294.2837, 154.0211],
+        [ 85.5641,  90.7041, 186.1432, 150.3490],
+        [ 58.7373,  30.9898, 251.1642,  78.6126],
+        [118.3448,  30.9324, 200.8455,  77.9686],
+        [160.7269,  43.4627, 271.3039,  77.4694],
+        [  0.0000,  76.9808,  83.2682, 162.2103],
+        [131.3884,  82.3098, 183.7568, 158.8728],
+        [ 54.7562, 123.2133,  92.7700, 155.4514],
+        [ 45.2417,  49.7302, 137.9281, 108.6455],
+        [133.7633,  62.0868, 213.6946, 130.7021],
+        [ 24.0091, 115.2821, 135.9489, 159.7695],
+        [  0.0000, 122.3345, 224.5337, 165.3652],
+        [ 55.0513,  87.3819, 143.9311, 137.2624],
+        [105.2846, 117.2006, 182.1615, 159.3709],
+        [ 52.9037,  44.1566, 100.6112,  87.7753],
+        [116.5231,  81.8489, 206.9584, 140.1569],
+        [140.7209,  41.2945, 248.5126,  91.3724],
+        [145.7931, 113.3611, 179.1666, 159.4700],
+        [ 29.7946,  17.7284, 115.1840, 132.6296],
+        [ 62.8989,  77.5934, 126.2275, 165.9016],
+        [  0.0000,  47.8151, 127.4152, 168.0328],
+        [ 86.4538,  33.6983, 139.9698, 147.8089],
+        [ 77.7086,  65.0053, 126.6904,  92.6236]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1]), 'scores': tensor([0.7534, 0.7040, 0.6932, 0.6285, 0.6248, 0.5428, 0.4879, 0.4841, 0.4838,
+        0.4725, 0.4724, 0.4370, 0.4051, 0.3950, 0.3774, 0.3266, 0.3155, 0.3094,
+        0.3063, 0.2795, 0.2647, 0.2558, 0.2491, 0.2194, 0.1826, 0.1814, 0.1730,
+        0.1585, 0.1561, 0.1490, 0.1418, 0.1396, 0.1392, 0.1166, 0.1165, 0.1156,
+        0.1133, 0.1116, 0.1095, 0.1038, 0.0945, 0.0877, 0.0857, 0.0828, 0.0708,
+        0.0652, 0.0647, 0.0647, 0.0567])}, {'boxes': tensor([[ 34.2624, 115.9155,  86.3519, 170.4756],
+        [113.6458, 111.9441, 163.5030, 166.4470],
+        [ 17.8357, 104.4248,  90.4199, 185.1152],
+        [ 32.9851, 119.9380,  90.1116, 147.5017],
+        [ 26.8876, 112.0394, 224.9997, 188.3624],
+        [ 97.5082, 113.8012, 190.8292, 170.3553],
+        [ 27.6843, 137.1367,  79.6440, 168.7074],
+        [ 97.7404,  20.4227, 203.8500, 182.4103],
+        [ 27.3953, 129.1573,  85.1242, 158.3822],
+        [101.4867,  82.3095, 173.9264, 185.4935],
+        [  9.5918,  86.0507, 159.8606, 188.3037],
+        [ 18.2931, 111.3409, 113.7928, 153.8338],
+        [ 76.0632,   8.1440, 216.8531, 112.0848]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7671, 0.6780, 0.3076, 0.2340, 0.1731, 0.1555, 0.0920, 0.0892, 0.0888,
+        0.0749, 0.0675, 0.0554, 0.0547])}]
+2025-09-19 01:16:34,433 - INFO - Loading Data for index 56
+2025-09-19 01:16:34,433 - INFO - Image Path : artifacts/raw/Images\15.jpeg
+2025-09-19 01:16:34,435 - INFO - Loading Data for index 192
+2025-09-19 01:16:34,435 - INFO - Image Path : artifacts/raw/Images\272.jpeg
+2025-09-19 01:16:34,436 - INFO - Loading Data for index 12
+2025-09-19 01:16:34,436 - INFO - Image Path : artifacts/raw/Images\11.jpeg
+2025-09-19 01:16:41,847 - INFO - <class 'list'>
+2025-09-19 01:16:41,856 - INFO - VAL_LOSS : [{'boxes': tensor([[119.1850,  79.3150, 160.4182, 106.2703],
+        [120.3649,  49.0725, 190.9260,  93.8798],
+        [283.1496,  65.8620, 340.1878, 114.9349],
+        [177.4995,  13.1811, 261.6363,  85.2234],
+        [112.9089,  69.8394, 172.6855, 111.1123],
+        [  7.9186,  97.5946, 110.1369, 146.0000],
+        [198.2011, 106.3535, 312.6699, 146.0000],
+        [128.5254,   9.4675, 281.6736,  93.3645],
+        [ 22.8646,  69.2091,  48.9962, 111.5232],
+        [114.5904,  56.5964, 206.4746, 109.3048],
+        [218.7406, 113.7599, 299.8327, 140.4287],
+        [156.9459,  91.4073, 295.0029, 146.0000],
+        [183.8833,  55.4462, 264.7001, 109.2579],
+        [125.4998,  40.9982, 192.8523, 129.0868],
+        [ 18.0922, 108.5072,  95.2178, 137.3312],
+        [  0.0000,  54.8866,  94.4328, 100.8158],
+        [140.0836,  11.9026, 266.8056,  59.4060],
+        [164.1454, 104.4933, 232.6955, 134.0858],
+        [197.2197,  17.9739, 259.7078, 129.2634],
+        [175.7946,  14.2424, 283.1637, 146.0000],
+        [  0.0000,  58.3531, 117.4316, 146.0000],
+        [ 23.1539, 109.7042, 178.9782, 146.0000]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8980, 0.6940, 0.6116, 0.3828, 0.3441, 0.2960, 0.2402, 0.2286, 0.1973,
+        0.1351, 0.1140, 0.1139, 0.1025, 0.0912, 0.0841, 0.0710, 0.0679, 0.0667,
+        0.0612, 0.0608, 0.0554, 0.0540])}, {'boxes': tensor([[ 76.3190, 101.3836, 106.4284, 128.6780],
+        [133.9049,  62.4544, 195.4151, 130.2773],
+        [ 21.9137, 101.5438,  82.0067, 133.7998],
+        [ 11.6549,  98.2382, 118.1758, 138.2376],
+        [ 86.9949,  47.5819, 237.8062, 133.8767],
+        [ 72.5118,  93.7194, 137.6068, 143.8336],
+        [ 70.5227, 102.2647, 126.9147, 131.9134],
+        [ 86.6006,  63.5922, 141.7756, 142.2061],
+        [ 75.2576,  90.8597, 190.6458, 138.9447],
+        [130.4832,  58.5329, 213.0325, 103.1463],
+        [ 16.1282, 140.4216, 188.5099, 188.8788],
+        [130.4186,  38.0562, 227.6206, 193.6812],
+        [ 10.2716,  93.2840,  90.8793, 165.5034],
+        [204.2217, 142.7790, 236.1957, 165.4233],
+        [153.1691,  89.8261, 179.7384, 142.2602],
+        [132.6124,  32.9620, 245.1361, 106.3949],
+        [ 20.5329,  58.7264, 203.6555, 136.3224],
+        [135.8185, 100.8636, 185.5714, 130.6536],
+        [ 89.8064,  56.4642, 126.4066,  83.6206],
+        [165.7398,  57.3894, 208.8279,  85.8872],
+        [165.0967,  39.3328, 222.2108, 111.8286],
+        [ 86.5625, 115.4003, 211.0502, 194.0000],
+        [  6.5400,  58.2796, 242.7557, 194.0000],
+        [111.6694,  21.6405, 221.3634,  60.1041],
+        [ 92.0721, 116.8889, 139.4699, 142.7689],
+        [ 93.6919,  71.8279, 246.8438, 168.1351],
+        [129.0865,  93.7429, 203.8790, 146.7042]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1]), 'scores': tensor([0.6047, 0.5156, 0.4803, 0.3711, 0.3006, 0.2630, 0.1968, 0.1498, 0.1393,
+        0.1304, 0.1282, 0.1249, 0.1229, 0.1191, 0.1107, 0.1015, 0.0988, 0.0984,
+        0.0911, 0.0869, 0.0727, 0.0615, 0.0597, 0.0569, 0.0552, 0.0546, 0.0535])}, {'boxes': tensor([[ 73.9157,  54.2756, 148.7886, 105.4135],
+        [256.3010,  39.0665, 281.2104,  70.3387],
+        [ 60.0967,  46.7678, 164.1217, 126.2002],
+        [ 75.4436,  65.7557, 137.2503,  95.9936],
+        [253.2016,  33.7093, 287.7678,  96.5551],
+        [ 60.1744,  56.0410, 229.5687, 138.8028],
+        [251.3225,  50.6440, 283.8860,  73.9844],
+        [ 71.0481,  34.6916, 242.0976, 108.5191],
+        [ 20.5175,  24.5145, 174.9717, 152.6717],
+        [178.7790, 105.3742, 282.0274, 152.5205],
+        [241.6198,  38.6380, 286.7539,  75.5605],
+        [113.7125,  55.0852, 144.7940,  98.4034],
+        [175.7053,  71.4728, 294.3750, 168.0000]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.9039, 0.6454, 0.5232, 0.4637, 0.2095, 0.1353, 0.1006, 0.0857, 0.0818,
+        0.0809, 0.0673, 0.0601, 0.0540])}]
+2025-09-19 01:16:41,856 - INFO - Loading Data for index 295
+2025-09-19 01:16:41,856 - INFO - Image Path : artifacts/raw/Images\65.jpeg
+2025-09-19 01:16:41,862 - INFO - Loading Data for index 169
+2025-09-19 01:16:41,862 - INFO - Image Path : artifacts/raw/Images\251.jpeg
+2025-09-19 01:16:41,863 - INFO - Loading Data for index 297
+2025-09-19 01:16:41,863 - INFO - Image Path : artifacts/raw/Images\67.jpeg
+2025-09-19 01:16:51,733 - INFO - <class 'list'>
+2025-09-19 01:16:51,745 - INFO - VAL_LOSS : [{'boxes': tensor([[126.1246,  16.1355, 247.4426,  94.0056],
+        [120.8231, 119.5309, 255.0874, 173.9090],
+        [104.6120,   3.2951, 263.2667, 155.8786],
+        [ 22.1357,  51.0575,  63.4126,  83.5289],
+        [177.0064, 127.2951, 261.7072, 169.4705],
+        [ 12.2970,  12.7083,  89.3975,  78.4727],
+        [  3.3091,  94.2707,  39.4684, 173.7959],
+        [163.3972,  22.2127, 253.7275,  79.8425],
+        [ 20.3204,  34.4200, 139.6188, 168.4334],
+        [142.6786,  26.5220, 221.2266,  82.6518],
+        [ 10.9701,  16.3088, 140.9911, 100.0278],
+        [117.2914,  78.3477, 269.2978, 185.0000],
+        [ 21.1905,  33.8305,  70.0578,  95.6682],
+        [151.7327, 137.0480, 257.2158, 185.0000],
+        [ 30.7863,  67.0556, 128.6136, 136.4598],
+        [101.4331,  35.6981, 140.0223,  62.4319],
+        [ 85.8807, 111.9628, 139.3802, 139.3025],
+        [128.1740, 122.7245, 174.5873, 156.5267],
+        [ 16.0592,  37.1101,  61.0180,  70.7510],
+        [196.6211, 106.4202, 267.9167, 185.0000],
+        [ 79.0061,  77.4023, 194.8208, 129.3750],
+        [123.3280, 156.2283, 244.9410, 185.0000],
+        [ 24.8014, 100.9509, 143.1271, 152.9047],
+        [ 24.8343,  17.6940, 272.0000,  98.4376],
+        [138.5031,  19.2788, 206.4125, 115.9840],
+        [  8.4318,  65.1631, 222.2064, 180.6480],
+        [ 83.8054,  99.5671, 144.8175, 152.5600],
+        [104.5618, 115.3680, 214.8183, 159.7736],
+        [ 83.7378,  91.5352, 198.4529, 168.1542],
+        [  0.0000,  54.2198,  57.3943, 178.9230]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1]), 'scores': tensor([0.9165, 0.6236, 0.6236, 0.6003, 0.5286, 0.5031, 0.4930, 0.4211, 0.3293,
+        0.2556, 0.2555, 0.2267, 0.1792, 0.1490, 0.1414, 0.1301, 0.1221, 0.1177,
+        0.1175, 0.0925, 0.0911, 0.0872, 0.0862, 0.0758, 0.0752, 0.0746, 0.0671,
+        0.0670, 0.0643, 0.0532])}, {'boxes': tensor([[ 22.4992,  16.2248,  89.0107,  50.7907],
+        [251.6431,  28.7746, 293.9482,  58.3075],
+        [  0.0000, 108.7203,  56.5928, 144.0446],
+        [247.2774,  24.1758, 306.7679,  70.5690],
+        [ 17.5813,   9.7816,  92.4996,  87.8166],
+        [197.6507,  22.9930, 306.2451,  61.6690],
+        [  0.0000,  40.7401,  81.5273,  91.0417],
+        [ 48.0147,  17.8625,  90.7122,  45.7574],
+        [  2.7893,  14.4721, 133.5282,  50.2749],
+        [ 73.5277,  88.8042,  98.9551, 125.9312],
+        [202.4643,  24.4145, 315.7998, 134.9653],
+        [  0.0000,   4.7770,  89.9646, 128.6888],
+        [  4.9566,  18.1695, 144.4608, 109.1699],
+        [240.3352,  19.4508, 295.9996, 100.6742],
+        [151.4518,  37.7914, 236.4905,  78.4463],
+        [132.4605,  21.6156, 305.4969, 105.2204],
+        [199.3455,  35.7652, 239.2731,  66.1808],
+        [218.1746,  53.0457, 281.8765, 122.8490],
+        [166.5146,  31.9847, 297.9439,  77.6987],
+        [  3.9214,  13.4740, 232.0126,  80.7337],
+        [158.1186,  40.2084, 211.9389,  68.7825],
+        [ 61.9414,  58.1840, 151.8801, 112.3466]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.9243, 0.9043, 0.4323, 0.4243, 0.3890, 0.2973, 0.2714, 0.2646, 0.2036,
+        0.2033, 0.1898, 0.1793, 0.1766, 0.1642, 0.1584, 0.1489, 0.1483, 0.1221,
+        0.1052, 0.1016, 0.0650, 0.0518])}, {'boxes': tensor([[124.7343,  67.2569, 179.9581, 115.0596],
+        [  5.9543, 108.4803,  55.8821, 136.1129],
+        [ 21.6460,  81.4923, 104.6884, 139.7370],
+        [  4.7979,  50.2208,  52.9788,  85.0836],
+        [132.9798, 115.6584, 176.0702, 156.4692],
+        [124.6496,  57.1079, 182.8780, 163.6862],
+        [  3.4587, 172.9371,  76.9947, 233.6347],
+        [ 10.9243, 123.6355,  70.4879, 178.1192],
+        [ 10.3910,  68.4797, 127.5702, 177.9412],
+        [  0.0000, 167.2779, 173.7638, 254.8421],
+        [ 13.1367, 227.7855,  59.0310, 249.4746],
+        [139.7991, 106.9643, 177.7854, 185.1882],
+        [  6.1149,  99.1302,  97.7349, 260.6456],
+        [134.6751, 176.6539, 179.7837, 212.2580],
+        [ 10.4794, 105.4493,  71.3924, 216.0761],
+        [ 87.0567, 178.7084, 139.7810, 252.5268],
+        [126.6697,  71.8757, 183.6806, 241.1200],
+        [  9.3336,  45.8882,  64.5837, 100.4737],
+        [134.6205, 163.7753, 178.7494, 237.9813],
+        [145.8503, 126.6029, 183.1359, 167.0397],
+        [ 69.0987, 180.8937, 176.1536, 236.1534],
+        [  7.5797, 221.5809,  74.9856, 256.6563],
+        [ 26.6873,  82.9654, 134.6720, 246.5116],
+        [ 55.3894,  77.9376, 109.8307, 156.1781],
+        [ 32.4018,  96.5671, 123.9821, 153.2332],
+        [ 60.3201, 161.6460, 147.5925, 257.5598],
+        [ 89.6986, 148.2557, 182.3432, 262.7777],
+        [ 14.0130,  63.9673,  43.3197,  93.9916],
+        [ 80.8494, 110.9198, 125.9785, 138.3195],
+        [ 24.2001,  65.1341, 182.1196, 138.5540],
+        [ 97.9883,  60.8617, 180.5842, 125.2536],
+        [ 51.4984, 192.1613, 140.0573, 244.5920],
+        [  1.0732, 182.6562,  57.8783, 216.9365],
+        [ 99.3497, 114.0918, 181.0314, 159.5072],
+        [ 33.1866,  83.9222,  73.9073, 126.1223],
+        [146.1659, 121.8400, 183.2928, 215.7864],
+        [  0.0000,  28.3824, 179.0123, 171.9867],
+        [ 70.5779,  81.6342, 107.5206, 114.0451],
+        [ 57.1449, 103.6149, 128.6920, 171.7795],
+        [ 25.1974, 224.0084,  52.5809, 261.3613],
+        [ 39.5191, 182.8045,  82.4711, 219.9028],
+        [ 35.3468, 105.6250, 181.6986, 194.0424],
+        [  5.2406,  42.7952,  83.5622, 159.6631],
+        [  6.4541,  57.7688,  36.1177,  78.2226],
+        [111.2206, 177.8762, 180.2402, 252.4353],
+        [  0.0000, 183.0860, 102.2917, 248.7602],
+        [ 96.6038,  92.1138, 181.7465, 184.5249],
+        [ 15.2943, 115.2425, 106.9892, 159.3625],
+        [ 64.0527,  38.2864, 187.0000, 127.7482],
+        [ 12.4098, 173.7382, 141.0301, 229.2279],
+        [ 10.5560, 109.0544,  61.3403, 160.1012],
+        [  3.6906, 154.3079, 113.1583, 211.3904]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1]), 'scores': tensor([0.7781, 0.7356, 0.7114, 0.7079, 0.6996, 0.6841, 0.6472, 0.6347, 0.6012,
+        0.5855, 0.5667, 0.5527, 0.5198, 0.4883, 0.4172, 0.3756, 0.3640, 0.3376,
+        0.3305, 0.3125, 0.3099, 0.2815, 0.2800, 0.2790, 0.2472, 0.2321, 0.2305,
+        0.2268, 0.2133, 0.2128, 0.2077, 0.2065, 0.1936, 0.1787, 0.1738, 0.1583,
+        0.1473, 0.1368, 0.1292, 0.1216, 0.1189, 0.1173, 0.1126, 0.1098, 0.1000,
+        0.0756, 0.0659, 0.0594, 0.0553, 0.0544, 0.0528, 0.0512])}]
+2025-09-19 01:16:51,745 - INFO - Loading Data for index 30
+2025-09-19 01:16:51,745 - INFO - Image Path : artifacts/raw/Images\126.jpeg
+2025-09-19 01:16:51,749 - INFO - Loading Data for index 228
+2025-09-19 01:16:51,749 - INFO - Image Path : artifacts/raw/Images\304.jpeg
+2025-09-19 01:16:51,750 - INFO - Loading Data for index 59
+2025-09-19 01:16:51,750 - INFO - Image Path : artifacts/raw/Images\152.jpeg
+2025-09-19 01:16:59,295 - INFO - <class 'list'>
+2025-09-19 01:16:59,304 - INFO - VAL_LOSS : [{'boxes': tensor([[ 73.4440,  12.2177, 107.2412,  52.9262],
+        [ 72.5129,  50.6153, 116.5150,  81.6632],
+        [ 71.1306,   9.5042, 111.9407,  78.8245],
+        [ 74.0605,  39.5337, 122.6626,  94.6051],
+        [ 69.6282,  32.1189, 112.6357,  58.7188],
+        [ 66.1156,   8.0521, 130.8407, 118.0426],
+        [ 78.6561,  55.0522, 175.8344,  99.2002],
+        [ 62.1674,  15.4269, 121.9439,  56.2344],
+        [ 55.3937,  36.1463, 206.1953, 112.4643],
+        [ 90.4815,  76.3902, 134.2061,  98.8749],
+        [ 84.4872,  41.4549, 131.5435, 115.6340],
+        [ 73.6335,  20.1221, 161.2734, 137.5770],
+        [ 96.9969,  67.7601, 127.8490, 105.1655],
+        [ 81.1754,  37.7001, 122.8679,  58.4896],
+        [ 79.7797,  15.7451, 105.6409,  41.1349],
+        [ 67.2883,  27.6399, 129.3148,  74.3443],
+        [ 61.7088,  39.1934, 148.3550,  82.6817],
+        [ 41.5343,  17.2218, 151.6580,  98.3650],
+        [ 48.5185,  46.9559, 263.0585, 143.1071],
+        [ 84.3162,  28.4492, 116.6317,  83.5632]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8974, 0.8038, 0.7925, 0.4721, 0.2758, 0.2168, 0.1851, 0.1470, 0.1248,
+        0.1240, 0.1173, 0.1122, 0.0882, 0.0809, 0.0794, 0.0776, 0.0674, 0.0648,
+        0.0518, 0.0501])}, {'boxes': tensor([[  4.7273,  30.6477, 113.7832, 129.7956],
+        [ 37.4439,  37.3407, 101.3557, 109.0321],
+        [ 84.9061,  32.4017, 278.1618, 100.1814],
+        [  8.7603,  58.5536,  92.5477, 108.5059],
+        [ 95.6199,  32.8295, 199.0740,  93.0091],
+        [105.3199,  40.6477, 243.1464, 125.3251],
+        [ 51.1405,  27.5745, 287.4384, 138.5809],
+        [117.4932,  36.7907, 251.4456,  83.8740],
+        [ 13.0343,  43.0155, 178.2983, 119.9329],
+        [ 92.5285,  36.4030, 180.2211, 140.1144],
+        [  0.0000,  35.5232,  50.7314,  60.7500],
+        [  0.7003,  36.0311, 122.1528,  78.5976],
+        [ 32.8667,  72.6703,  87.9796, 104.4315],
+        [ 33.9903,  51.3133,  90.3508, 136.3871],
+        [150.8506,  39.1635, 291.5566, 134.4997],
+        [  2.2617,  31.2396,  64.1048,  77.3501],
+        [ 98.8457,  65.8287, 157.7785,  92.5728],
+        [ 27.8154,  52.9771, 160.2313, 158.3352],
+        [142.2072,  28.1398, 221.7638, 118.3961],
+        [ 93.9651,  54.7756, 191.0811, 108.2853],
+        [ 95.0914, 105.4933, 141.6555, 130.3416],
+        [ 11.9539,  61.5984,  58.7828,  96.9011],
+        [ 98.8938,  86.5782, 144.8222, 138.4952],
+        [ 13.6985,  52.9291,  68.2386, 134.6126],
+        [110.6631,  51.9373, 162.1409,  94.9974]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1]), 'scores': tensor([0.6412, 0.6295, 0.6006, 0.5672, 0.5032, 0.2973, 0.2781, 0.2633, 0.2628,
+        0.2522, 0.2298, 0.2292, 0.1544, 0.1323, 0.1044, 0.1039, 0.0966, 0.0794,
+        0.0632, 0.0632, 0.0577, 0.0565, 0.0530, 0.0512, 0.0502])}, {'boxes': tensor([[ 81.8172,  52.6045, 133.8177, 132.0397],
+        [106.2277,  99.6048, 173.1933, 173.2325],
+        [ 71.4203,  38.0966, 142.0824, 162.6787],
+        [187.6356,  81.6804, 261.1459, 123.1682],
+        [182.5320,   0.0000, 281.6898, 129.7734],
+        [ 55.9805,  88.6432, 195.6404, 167.9796],
+        [187.8987,  46.7327, 278.9054, 169.7455],
+        [ 53.5727,  61.2692, 174.3454, 148.9073],
+        [ 68.7352, 118.5288, 105.5442, 138.9339],
+        [203.0291, 151.9530, 266.9296, 171.2150],
+        [ 78.5586, 102.8674, 171.4692, 148.4879],
+        [ 93.3810,  57.8704, 135.2837, 107.4220],
+        [ 23.4362,  46.2495, 150.6155, 172.3432],
+        [ 73.9993,  77.2404, 125.6283, 140.6834],
+        [109.4304, 114.3301, 173.0695, 152.4912],
+        [126.1524, 107.3113, 170.2425, 136.6373],
+        [165.5505,  15.2431, 268.6340,  95.5140],
+        [226.7275,  98.9094, 284.6109, 157.3687],
+        [213.8381,   3.9645, 269.3969,  60.1537],
+        [ 72.0107,  32.2206, 279.7178, 167.2820],
+        [ 73.8525, 112.7000, 108.6745, 148.5006],
+        [174.7401,  62.6853, 276.8818, 127.3560],
+        [204.6637,  90.0360, 284.4965, 175.0000],
+        [ 76.5206,  52.8414, 139.1411,  94.4031],
+        [200.0205, 136.2511, 275.8471, 175.0000],
+        [107.6140,  60.2237, 135.4778,  89.0154],
+        [189.4067,  46.1222, 250.8802, 133.7404],
+        [ 65.8388, 107.4179, 123.9147, 145.7031],
+        [ 67.9807,  13.2969, 157.2338, 117.3428],
+        [129.9326, 102.8076, 176.5342, 160.0093],
+        [ 69.1230,  97.4444, 110.4813, 165.8605],
+        [  0.0000,  64.2465,  76.0289, 105.3828],
+        [ 72.4912, 100.4206, 115.9230, 132.9012],
+        [183.5585,  88.8260, 251.1405, 113.3986],
+        [123.0066,  26.8280, 207.2964, 153.6495]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8224, 0.7007, 0.6748, 0.5295, 0.4985, 0.4885, 0.4641, 0.4278, 0.4263,
+        0.3933, 0.3913, 0.3880, 0.3333, 0.3134, 0.3092, 0.2654, 0.2632, 0.2255,
+        0.2197, 0.1428, 0.1345, 0.1318, 0.1315, 0.1182, 0.1164, 0.1104, 0.0967,
+        0.0961, 0.0799, 0.0752, 0.0725, 0.0690, 0.0607, 0.0604, 0.0543])}]
+2025-09-19 01:16:59,304 - INFO - Loading Data for index 187
+2025-09-19 01:16:59,304 - INFO - Image Path : artifacts/raw/Images\268.jpeg
+2025-09-19 01:16:59,310 - INFO - Loading Data for index 45
+2025-09-19 01:16:59,310 - INFO - Image Path : artifacts/raw/Images\14.jpeg
+2025-09-19 01:16:59,311 - INFO - Loading Data for index 96
+2025-09-19 01:16:59,312 - INFO - Image Path : artifacts/raw/Images\186.jpeg
+2025-09-19 01:17:06,561 - INFO - <class 'list'>
+2025-09-19 01:17:06,569 - INFO - VAL_LOSS : [{'boxes': tensor([[ 69.7092, 136.4875, 124.1590, 161.0181],
+        [ 11.6603, 112.4870,  61.6942, 165.4173],
+        [ 28.1090, 111.8449,  60.0463, 142.3716],
+        [236.7460,  97.5799, 292.1376, 148.5502],
+        [  9.4731, 131.5912,  55.8697, 159.4682],
+        [126.7590,  94.9506, 208.5420, 153.8038],
+        [ 52.6840,  13.3626,  79.3193,  35.0428],
+        [240.8377,  97.9064, 268.5874, 145.9932],
+        [ 52.6202,  17.0331,  73.4799,  30.3293],
+        [  0.0000, 120.4139,  16.6187, 151.6978],
+        [  0.0000, 110.2211, 231.1688, 164.5381],
+        [ 66.0646, 125.0788, 133.1545, 166.0113],
+        [232.6618,  21.1693, 270.9904,  95.3120],
+        [ 71.4072,  82.2870, 228.9610, 161.4332],
+        [  0.0000, 118.5023, 135.4974, 165.3347],
+        [179.8245,   8.2919, 286.0391,  96.5180],
+        [185.9594,  15.2491, 267.5860, 149.3287],
+        [ 16.1501, 107.6496,  74.3504, 145.2616],
+        [221.1141,  85.4723, 298.7007, 158.9226],
+        [ 20.5219, 119.3873,  58.5196, 151.2550],
+        [224.4534,  32.5517, 273.3908,  59.6041],
+        [  3.3313, 101.1302,  82.6114, 161.8207],
+        [ 23.5661,   7.8223, 283.9148,  48.1479]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7396, 0.4876, 0.4568, 0.3702, 0.2282, 0.1849, 0.1772, 0.1730, 0.1503,
+        0.1117, 0.1110, 0.1071, 0.0828, 0.0824, 0.0821, 0.0791, 0.0735, 0.0709,
+        0.0676, 0.0647, 0.0623, 0.0535, 0.0501])}, {'boxes': tensor([[127.8268,  56.6971, 175.0983, 105.0734],
+        [129.3036,  60.1557, 176.2202,  85.0159],
+        [114.0932,  53.9208, 197.5803,  93.6026],
+        [130.1406,  76.5161, 172.2240, 103.2297],
+        [116.3955,  40.3385, 180.2386, 143.3516],
+        [113.7139,  53.0514, 227.0944, 126.2187],
+        [ 90.4444,  58.1736, 184.8166, 109.6952],
+        [ 55.1965, 123.7069, 159.9638, 164.8777],
+        [  0.0000,  53.1683, 188.1365, 168.0000],
+        [ 14.4276, 104.2984, 165.5575, 168.0000]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8124, 0.5368, 0.2508, 0.1754, 0.1460, 0.1348, 0.1143, 0.0961, 0.0575,
+        0.0526])}, {'boxes': tensor([[ 77.0481,  36.5020, 172.5080,  83.3883],
+        [ 76.8910,  36.5337, 141.6062,  68.4295],
+        [ 67.0206,  26.7046, 202.6475, 113.8158],
+        [110.7642,  42.4464, 184.1728,  85.6216],
+        [ 40.7487,  30.2894, 232.4314,  79.3913],
+        [105.2591,  51.8989, 151.8748,  80.4364],
+        [147.4515,  42.2292, 175.4722,  81.5345],
+        [100.9077,  51.0234, 197.7758, 100.5201],
+        [ 97.9494,  35.8510, 131.6878,  73.0309],
+        [ 46.5755,  22.1424, 256.7826, 145.1061],
+        [130.3856,  38.4044, 189.3759, 119.6796],
+        [137.4767,  41.2571, 169.4062,  88.8475],
+        [117.1790,  42.0507, 149.0772,  87.2853],
+        [ 81.1518,  21.5969, 150.6152, 105.0933],
+        [137.9520,  47.8250, 183.3302,  75.2426],
+        [100.1330,  38.7595, 262.3594, 116.1927],
+        [121.5561,  61.0986, 172.1091,  87.2361]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7988, 0.6806, 0.6124, 0.5997, 0.2228, 0.2051, 0.1878, 0.1725, 0.1607,
+        0.1448, 0.1127, 0.1041, 0.0989, 0.0902, 0.0730, 0.0723, 0.0509])}]
+2025-09-19 01:17:06,569 - INFO - Loading Data for index 176
+2025-09-19 01:17:06,569 - INFO - Image Path : artifacts/raw/Images\258.jpeg
+2025-09-19 01:17:06,571 - INFO - Loading Data for index 172
+2025-09-19 01:17:06,571 - INFO - Image Path : artifacts/raw/Images\254.jpeg
+2025-09-19 01:17:06,572 - INFO - Loading Data for index 225
+2025-09-19 01:17:06,572 - INFO - Image Path : artifacts/raw/Images\301.jpeg
+2025-09-19 01:17:13,827 - INFO - <class 'list'>
+2025-09-19 01:17:13,839 - INFO - VAL_LOSS : [{'boxes': tensor([[140.4368,  65.7308, 191.3940,  95.3186],
+        [ 91.7657,  92.2746, 181.6358, 155.1432],
+        [108.0864,  62.6335, 193.7618, 107.9532],
+        [ 87.4070,  24.1599, 156.7217,  63.5742],
+        [160.3201,  63.4878, 192.1445, 104.3349],
+        [ 97.5971,  50.0175, 201.2230, 167.4212],
+        [141.5816,  60.5702, 196.1620, 142.0223],
+        [ 49.6121,  95.8699, 204.7949, 166.9758],
+        [ 88.7014,  17.5113, 161.1650,  93.1376],
+        [ 87.3115,  41.9047, 206.8831, 110.9861],
+        [137.0026,  70.1634, 203.7930, 110.2730],
+        [ 47.0893, 102.0762, 104.0786, 148.7184],
+        [159.4673,  83.0395, 198.5578, 106.0051],
+        [ 50.0477,  23.6963, 253.8454, 165.7244],
+        [ 52.5629,  29.9019, 257.0271,  98.3606],
+        [105.8331,  26.0092, 154.0170,  54.0043],
+        [153.7066,  76.8640, 204.7984, 156.0504],
+        [ 67.1085,  19.4451, 187.4620,  54.8519],
+        [120.3803, 102.1565, 206.1031, 145.7751],
+        [103.7843,  70.5731, 163.7541, 168.0000]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7877, 0.6681, 0.5707, 0.5679, 0.5433, 0.5252, 0.4266, 0.4256, 0.3394,
+        0.3180, 0.2085, 0.2044, 0.1997, 0.1635, 0.1243, 0.1196, 0.0672, 0.0578,
+        0.0575, 0.0574])}, {'boxes': tensor([[144.6051,  48.7724, 224.1393,  99.2850],
+        [130.8122,  46.8805, 284.4565, 111.0904],
+        [169.8703,  45.6709, 234.9602, 113.6947],
+        [164.4251,  57.6469, 270.4171, 102.2131],
+        [136.9380,  39.1477, 238.0517, 144.4544],
+        [213.0417,  48.6848, 280.8107, 120.0935],
+        [ 88.2682,  28.5555, 291.3048, 154.7225],
+        [140.0206,  53.9178, 206.3342,  85.2929],
+        [174.1593,  36.0235, 284.2569, 149.4600],
+        [136.9308,  48.7875, 241.0210,  75.2899],
+        [164.9698,  69.8081, 225.0006,  97.0046],
+        [177.9674,  71.8014, 270.9162, 117.2000],
+        [190.5166,  54.6469, 255.0491, 129.3060],
+        [209.6704,  98.0594, 256.6277, 121.6374],
+        [ 66.2460,  74.3242, 187.1434, 129.3549],
+        [149.6339,  63.1682, 213.0809,  93.4478],
+        [180.7538,  54.4070, 215.1471, 101.4939]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.6860, 0.6502, 0.4013, 0.3591, 0.3296, 0.2264, 0.2051, 0.1890, 0.1470,
+        0.1451, 0.1369, 0.1354, 0.1285, 0.0790, 0.0683, 0.0575, 0.0554])}, {'boxes': tensor([[ 62.4992,  23.0446, 109.5650,  64.0153],
+        [214.7418,  11.0938, 257.3663, 103.6168],
+        [ 43.9796,  52.5216, 183.1263, 108.9623],
+        [189.2540,   1.7400, 261.9331, 136.3949],
+        [ 50.2955,  56.0637, 219.6356, 141.1338],
+        [ 99.2045,  69.3698, 178.9764, 132.2097],
+        [225.1109,  11.5806, 256.8853,  62.9608],
+        [180.4211, 113.2331, 288.1908, 161.7846],
+        [ 33.2619,  33.9237, 265.5749, 124.9158],
+        [178.1320,  62.8765, 247.6080, 121.3453],
+        [148.2596,  11.2542, 182.3180,  32.0629],
+        [178.3524,  90.7926, 218.2168, 118.2568],
+        [151.5186,  40.0863, 272.1319, 127.1632],
+        [178.7848,  47.3235, 298.3667, 168.0000],
+        [ 32.0761,  47.6657,  68.6129,  84.6177],
+        [122.2296,  13.8071, 286.7087, 153.3357],
+        [ 52.1797,  18.8736, 114.6652,  98.7274],
+        [142.2859,  57.9917, 191.8394, 135.5516],
+        [ 60.3630,  21.4799, 168.7896,  70.8691],
+        [ 74.4473, 105.4220, 147.6389, 156.2255],
+        [129.3649,  74.5931, 180.7279, 149.0487],
+        [ 25.8376,  32.5821,  86.3988, 101.0547],
+        [136.6373,  81.0342, 234.3474, 129.5394],
+        [ 90.0132,  68.8787, 272.7422, 153.3082],
+        [  0.0000,  89.8180, 177.9110, 163.6094],
+        [117.5472,  87.2704, 162.6335, 127.7886],
+        [174.4191,  69.8428, 218.0198, 140.5428],
+        [147.6460,  11.3192, 287.9220,  87.5572],
+        [106.3798,  92.1261, 192.0040, 137.0293],
+        [ 26.6592,  22.4812, 214.3475,  93.6638],
+        [ 85.7714,  29.1676, 197.5115,  83.5981],
+        [ 23.1421, 102.0499, 137.0558, 149.8195]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7208, 0.6639, 0.5969, 0.5656, 0.5430, 0.4992, 0.4430, 0.4406, 0.4343,
+        0.4093, 0.3838, 0.3147, 0.3101, 0.2402, 0.2393, 0.1735, 0.1512, 0.1402,
+        0.1340, 0.1084, 0.0970, 0.0944, 0.0750, 0.0741, 0.0725, 0.0656, 0.0604,
+        0.0586, 0.0585, 0.0566, 0.0534, 0.0505])}]
+2025-09-19 01:17:13,839 - INFO - Loading Data for index 282
+2025-09-19 01:17:13,839 - INFO - Image Path : artifacts/raw/Images\53.jpeg
+2025-09-19 01:17:13,844 - INFO - Loading Data for index 154
+2025-09-19 01:17:13,845 - INFO - Image Path : artifacts/raw/Images\238.jpeg
+2025-09-19 01:17:13,845 - INFO - Loading Data for index 82
+2025-09-19 01:17:13,846 - INFO - Image Path : artifacts/raw/Images\173.jpeg
+2025-09-19 01:17:21,285 - INFO - <class 'list'>
+2025-09-19 01:17:21,286 - INFO - VAL_LOSS : [{'boxes': tensor([[112.3196,  29.2594, 198.5215, 100.9941],
+        [109.6323,  20.1275, 225.8239, 174.4035],
+        [115.1428,  36.6473, 188.4443,  77.3898],
+        [153.0725, 155.2373, 189.4943, 182.6969],
+        [167.3802,  27.6546, 214.2526,  96.8322],
+        [109.7738,  65.9212, 245.9166, 148.9366],
+        [129.9456,  31.9963, 213.3152,  62.5767],
+        [119.1763,  49.3292, 205.3391, 139.4537],
+        [117.1462,  87.8668, 241.3961, 183.5258],
+        [123.5259,  82.6600, 192.2043, 134.8021],
+        [179.9497,  32.9819, 214.2339,  79.5638],
+        [ 50.0377,  26.0269, 228.0938, 113.0259],
+        [145.6707, 122.6984, 203.8171, 185.3885],
+        [136.2124,  34.5625, 183.2527,  67.8654],
+        [ 25.9489,  15.4140, 243.1398, 162.5589],
+        [173.2833,  30.5076, 208.0604,  66.3865],
+        [154.9783,  32.9527, 184.5151,  63.4040],
+        [127.1870,  68.2078, 172.9380,  96.6183],
+        [132.0997, 117.8158, 226.5063, 171.3860],
+        [133.7643,  37.4913, 216.8847,  84.3125],
+        [111.0599,  59.6733, 174.8897,  91.8318]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7703, 0.6743, 0.5488, 0.5301, 0.4096, 0.3470, 0.3125, 0.2891, 0.2837,
+        0.2358, 0.2089, 0.2084, 0.1992, 0.1725, 0.1362, 0.0902, 0.0896, 0.0739,
+        0.0667, 0.0665, 0.0642])}, {'boxes': tensor([[ 84.3073,  65.6161, 191.3641, 122.6134],
+        [114.5080,  79.9364, 272.3129, 166.6027],
+        [118.3628,  67.2247, 199.9117, 148.2236],
+        [181.0417,  93.4867, 271.6209, 140.8401],
+        [ 79.0610,  63.9312, 234.7812, 142.3863],
+        [167.6570, 121.4050, 209.1265, 154.1379],
+        [141.8916,  74.4934, 211.9561, 166.8035],
+        [157.1362, 115.7530, 212.0964, 165.1884],
+        [150.9883, 102.3765, 257.6237, 148.8362],
+        [137.9724,  82.5471, 192.2518, 127.6282],
+        [105.3450,  72.4289, 204.8618, 109.1439],
+        [ 43.6567,  46.4285, 252.1572, 177.7923],
+        [ 87.5189,  74.6661, 154.2314, 105.5047]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7548, 0.6306, 0.6034, 0.5043, 0.4161, 0.4108, 0.3857, 0.2557, 0.1807,
+        0.1658, 0.1387, 0.1009, 0.0819])}, {'boxes': tensor([[  8.0770,  19.4084, 157.9216,  98.9973],
+        [  0.0000,   9.4592, 190.3680, 135.5845],
+        [113.6731,  90.3949, 166.0558, 120.8605],
+        [122.8165, 125.8313, 210.0181, 180.0862],
+        [ 77.6602,  16.5410, 165.3045, 102.2117],
+        [ 38.4215,  25.8231, 216.6228, 199.2680],
+        [ 18.5379,  33.9218, 117.6845,  78.7895],
+        [ 32.2846, 115.0405, 215.0797, 212.1224],
+        [ 98.3759,  56.9034, 217.1798, 181.9684],
+        [125.1463,  92.6148, 213.2588, 203.1202],
+        [121.6440,  27.8925, 190.4151, 115.8032],
+        [146.4510,  33.5909, 184.8173,  78.2641],
+        [106.2252,  83.1264, 184.4081, 127.2350],
+        [ 96.4278,  24.0990, 173.9623, 135.7409],
+        [ 93.1107,  27.5106, 185.2348,  78.7703],
+        [114.7033,  70.0157, 173.2455, 166.4506],
+        [106.0291,  65.6664, 211.8302, 119.3662],
+        [  7.1792,  30.1657, 146.1947, 197.0406],
+        [  8.2560,  32.9305,  75.8198,  70.5561],
+        [ 37.7682, 159.1964,  77.2708, 186.5876]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8102, 0.6851, 0.6631, 0.5656, 0.4819, 0.3926, 0.3308, 0.2424, 0.2230,
+        0.2201, 0.2055, 0.1450, 0.1314, 0.1145, 0.1118, 0.0843, 0.0820, 0.0725,
+        0.0610, 0.0506])}]
+2025-09-19 01:17:21,286 - INFO - Loading Data for index 218
+2025-09-19 01:17:21,286 - INFO - Image Path : artifacts/raw/Images\296.jpeg
+2025-09-19 01:17:21,286 - INFO - Loading Data for index 11
+2025-09-19 01:17:21,286 - INFO - Image Path : artifacts/raw/Images\109.jpeg
+2025-09-19 01:17:21,294 - INFO - Loading Data for index 148
+2025-09-19 01:17:21,294 - INFO - Image Path : artifacts/raw/Images\232.jpeg
+2025-09-19 01:17:28,960 - INFO - <class 'list'>
+2025-09-19 01:17:28,970 - INFO - VAL_LOSS : [{'boxes': tensor([[153.0711,  71.6626, 218.5198, 127.2297],
+        [146.1648,  17.7012, 194.9999,  46.7331],
+        [150.3941,  82.4511, 212.5799, 112.2076],
+        [139.7205,   8.7628, 201.9558,  54.4633],
+        [114.8640,  47.1591, 265.2874, 125.3996],
+        [118.8682,  69.0282, 280.2395, 153.8254],
+        [142.4868,  68.1049, 238.2095, 103.0864],
+        [113.1798,  44.5733, 168.3526,  97.8157],
+        [170.5699, 105.2510, 279.4617, 160.5717],
+        [ 81.6659,  14.8527, 278.0778, 107.6127],
+        [119.6055,  66.3434, 215.3267, 114.7114],
+        [137.4659,  60.4289, 225.7440, 148.1445],
+        [ 91.9501,   8.7483, 210.4297,  91.9584],
+        [ 42.6640,   6.7147, 284.6102,  62.3418],
+        [137.8172,  14.2880, 224.7360, 124.5449],
+        [175.4184, 113.3647, 203.8402, 137.9692]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.5986, 0.5315, 0.2513, 0.1935, 0.1668, 0.1268, 0.1192, 0.1157, 0.1151,
+        0.0997, 0.0781, 0.0744, 0.0702, 0.0584, 0.0566, 0.0524])}, {'boxes': tensor([[  0.0000,  13.0706, 194.5162, 105.9739],
+        [  0.0000, 148.3984,  76.7024, 198.0257],
+        [ 61.5168, 131.1207, 121.0899, 164.8916],
+        [160.2466, 133.1217, 225.0000, 167.7189],
+        [  5.3053,   4.7061, 218.5871, 192.8305],
+        [151.6653, 129.5209, 220.9911, 199.2657],
+        [ 64.7672,  15.9342, 218.1426, 131.0673],
+        [  5.0547, 147.0768, 111.9873, 219.3223],
+        [ 20.0408, 164.0832,  78.0504, 202.2648],
+        [ 35.6782, 169.5390, 118.9935, 219.6682],
+        [ 66.7966, 124.0044, 121.7596, 216.0080],
+        [  2.2718, 150.1752,  62.5538, 181.2243],
+        [  0.0000, 127.3490, 211.1214, 215.0238],
+        [147.4992,  86.9470, 207.2818, 200.8388],
+        [ 39.2504, 128.7281, 123.4186, 177.1315],
+        [ 72.2838, 173.2924, 117.5368, 202.1534],
+        [107.6985,  22.6346, 218.0013,  97.7656],
+        [ 75.4641,  40.7168, 194.0798, 108.5724],
+        [ 10.3040,  15.0419, 147.8992,  78.4177],
+        [152.8249, 142.7599, 206.3658, 169.4849],
+        [131.1824,  28.9172, 221.3271, 204.6370],
+        [141.8807, 158.3329, 211.3878, 206.6447],
+        [ 20.4428, 120.1663, 125.4959, 204.3611],
+        [151.6793, 150.2629, 189.4816, 206.8300],
+        [148.9544, 177.1170, 200.5275, 204.3238],
+        [ 46.7258,  77.0569, 162.6557, 213.7164],
+        [ 43.7701, 185.5446, 111.7654, 213.4988],
+        [ 66.0879,  77.2120, 218.1674, 191.8716],
+        [135.8755, 109.0396, 218.0535, 167.5986],
+        [162.6842, 136.5098, 197.3987, 184.9050],
+        [148.0524, 125.5091, 207.6730, 176.1714],
+        [157.2097,  32.4726, 218.9014,  64.0830],
+        [ 98.5246,  57.0723, 208.5387, 123.6960],
+        [ 13.6155, 154.9808,  29.4271, 180.8055],
+        [  0.0000, 168.5110, 186.5573, 215.7042]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7193, 0.7017, 0.6422, 0.6099, 0.5951, 0.5896, 0.5565, 0.5291, 0.5191,
+        0.4894, 0.3894, 0.3821, 0.3373, 0.3150, 0.2922, 0.2549, 0.2413, 0.2380,
+        0.2377, 0.2127, 0.2108, 0.1625, 0.1380, 0.1338, 0.1330, 0.1298, 0.1161,
+        0.1159, 0.0993, 0.0956, 0.0945, 0.0919, 0.0907, 0.0643, 0.0617])}, {'boxes': tensor([[ 83.2261,  36.9880, 108.6466,  54.0991],
+        [ 23.9293,  97.7757,  75.2085, 133.2362],
+        [141.8285,  55.4161, 179.7450,  73.8493],
+        [ 77.6329,  34.7822, 115.9072,  57.7444],
+        [137.2343,  48.5901, 189.5070,  75.9431],
+        [135.0878,  51.7500, 179.3586,  90.3682],
+        [ 83.3149,  58.6475, 135.9068, 105.7258],
+        [ 22.5622,  89.2912, 170.0496, 141.0000],
+        [ 81.0009,  38.0308, 148.5147,  67.7804],
+        [ 75.0299,  35.1621, 181.7119, 128.6032],
+        [ 66.8836,  99.5454, 146.2786, 134.2692],
+        [ 83.1310,  28.9415, 189.0717,  86.0613],
+        [170.4692,  80.4258, 189.0025,  97.0969],
+        [ 90.5412,  71.1737, 158.5812, 111.7795],
+        [ 16.4309,  81.5200,  78.2953, 141.0000],
+        [139.6301,  45.6236, 179.7614, 118.3733],
+        [155.5121,  53.8293, 177.2291,  80.4897],
+        [ 80.9085,  36.1890, 147.9823,  98.6110],
+        [146.9700,  15.6421, 185.3583,  36.0518],
+        [101.7876,  52.3044, 142.4330, 116.3112],
+        [132.6412,  21.4226, 189.7905, 129.3060],
+        [136.2058,  34.7133, 157.8607,  70.4505],
+        [ 53.2965,  49.7850, 147.7197, 141.0000],
+        [156.8498,  17.0585, 187.9067,  78.0970],
+        [113.3833,  42.1773, 178.5712,  98.6923],
+        [137.5407,  18.4887, 183.7815,  50.2159],
+        [102.6860,  39.7234, 150.5349,  82.2608],
+        [131.7019,  68.4815, 172.7681,  88.5148],
+        [ 11.0106,  46.2946, 171.6855, 109.5163],
+        [ 82.5855,  64.5886, 166.3752, 138.4916],
+        [100.4781,  65.9328, 178.4915, 103.6824],
+        [ 84.3684,  36.1868, 119.7555,  94.7390],
+        [ 88.6337,  41.5115, 116.8521,  63.2307],
+        [102.4291,  79.3125, 145.8998, 102.3780],
+        [135.2589,  32.6793, 164.1309,  89.7110],
+        [127.9000,  30.2411, 178.7450,  79.1383],
+        [104.3054,  60.6328, 129.4864,  95.1767],
+        [124.0003,  25.1283, 180.8525,  57.5254],
+        [109.5019,  37.4754, 174.9571,  69.6956],
+        [111.0572,  41.0316, 147.0266,  68.0073],
+        [ 22.1729, 102.2376, 117.6699, 134.5132],
+        [  4.0679,  24.7881, 189.6085, 138.7944],
+        [ 93.3001,  13.3320, 194.6716,  67.3044],
+        [ 66.1027,  74.9274, 146.0609, 121.1457],
+        [113.8216,  76.9266, 192.3799, 116.2548]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8754, 0.8691, 0.6838, 0.6686, 0.4921, 0.4780, 0.4734, 0.4704, 0.4433,
+        0.4234, 0.4004, 0.3716, 0.3629, 0.3599, 0.3540, 0.3182, 0.3142, 0.3113,
+        0.2875, 0.2784, 0.2602, 0.2550, 0.2461, 0.2381, 0.2092, 0.1475, 0.1405,
+        0.1392, 0.1351, 0.1310, 0.1212, 0.1202, 0.1080, 0.1051, 0.1016, 0.0988,
+        0.0856, 0.0848, 0.0809, 0.0749, 0.0653, 0.0650, 0.0626, 0.0602, 0.0561])}]
+2025-09-19 01:17:28,970 - INFO - Loading Data for index 124
+2025-09-19 01:17:28,970 - INFO - Image Path : artifacts/raw/Images\210.jpeg
+2025-09-19 01:17:28,974 - INFO - Loading Data for index 84
+2025-09-19 01:17:28,974 - INFO - Image Path : artifacts/raw/Images\175.jpeg
+2025-09-19 01:17:28,975 - INFO - Loading Data for index 222
+2025-09-19 01:17:28,975 - INFO - Image Path : artifacts/raw/Images\3.jpeg
+2025-09-19 01:17:36,394 - INFO - <class 'list'>
+2025-09-19 01:17:36,403 - INFO - VAL_LOSS : [{'boxes': tensor([[147.7204,  24.0167, 245.7045, 105.0608],
+        [120.4096,  13.8262, 253.0253, 148.0783],
+        [167.5473,  34.5979, 242.5913,  76.4374],
+        [ 14.6504,  90.3584, 142.7483, 183.8149],
+        [ 32.5754,  23.3958, 107.0921,  75.2323],
+        [ 37.3911,  17.3240, 252.5212, 193.0000],
+        [151.9643,  47.2452, 230.6461,  82.2555],
+        [ 41.5359, 100.2618, 182.2753, 168.9134],
+        [153.0606,  40.9069, 192.9339,  70.1591],
+        [150.8382,  42.3267, 220.0449, 121.6907],
+        [  0.0000, 108.6694, 211.3570, 193.0000],
+        [ 77.0219,  72.8847, 155.9383, 177.5484]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8709, 0.5984, 0.4495, 0.3859, 0.2247, 0.1558, 0.1325, 0.1227, 0.1041,
+        0.0869, 0.0759, 0.0570])}, {'boxes': tensor([[147.7581, 155.9372, 213.1660, 187.4907],
+        [  6.4898,  30.6522, 232.6812, 124.5317],
+        [101.0753,  62.0342, 203.8988, 115.4380],
+        [ 66.4336,  43.0883, 197.1313, 128.4010],
+        [ 11.6008,  54.7420,  49.7189,  94.1154],
+        [ 15.0538,  38.5962, 168.9505,  99.3364],
+        [160.8667,  25.3586, 256.2398, 148.0935],
+        [ 45.8879,  51.9559, 245.6754, 156.9384],
+        [182.2972,  34.5725, 245.5170, 123.5303],
+        [116.2359,  26.8529, 190.2422, 134.5731],
+        [106.6946,  68.5143, 180.9910, 101.5791],
+        [139.3220,  42.5381, 201.8779, 122.3734],
+        [108.0834,  41.1791, 223.0348, 184.0808],
+        [119.1005,  75.4011, 186.7189, 131.5599],
+        [209.1076, 149.4948, 255.4132, 182.6019],
+        [149.5508, 149.3183, 245.6092, 183.0738],
+        [135.7547,  74.6451, 243.7868, 122.9721],
+        [ 14.9244,  46.9314,  73.9945,  98.0652],
+        [ 41.4478,  35.1772, 172.4339, 194.0000],
+        [107.7237,  17.5829, 249.3907, 124.4293],
+        [124.2670,  93.6563, 182.1066, 120.8098],
+        [157.9911,  30.5935, 254.3180,  92.7448],
+        [ 19.0098, 118.7334, 138.6492, 194.0000],
+        [  0.0000, 137.7590, 229.5949, 194.0000],
+        [116.3668, 156.7340, 223.1812, 194.0000],
+        [  8.8212, 118.9224,  46.1787, 147.6782],
+        [167.2330,  28.8473, 223.0493, 124.7219],
+        [156.4226, 130.2241, 251.8182, 193.0386],
+        [177.6185,  89.2599, 233.4336, 118.6955]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1]), 'scores': tensor([0.7062, 0.6445, 0.6352, 0.5283, 0.5238, 0.5117, 0.4241, 0.3789, 0.3471,
+        0.3447, 0.3364, 0.2287, 0.2193, 0.2119, 0.2087, 0.2033, 0.1913, 0.1830,
+        0.1759, 0.1492, 0.1141, 0.1006, 0.1005, 0.0736, 0.0734, 0.0733, 0.0593,
+        0.0541, 0.0519])}, {'boxes': tensor([[191.6204,  32.6846, 289.6542,  95.2181],
+        [ 74.5425,  74.5882, 212.1451, 131.2137],
+        [219.5572,  47.7621, 319.5186,  97.2067],
+        [180.4816,  27.0244, 312.7286, 121.4594],
+        [248.6197,  51.3071, 322.5087,  84.5654],
+        [ 76.9461,  30.2855, 321.3292, 141.4414],
+        [271.6106,  49.8789, 308.6773,  85.1835],
+        [ 41.0516,  68.2645, 278.9553, 141.6951],
+        [120.0982,  33.5729, 320.1391,  93.7505],
+        [208.5201,  73.5996, 264.0693, 102.1810],
+        [193.2488,  37.1406, 275.8282,  72.9541],
+        [257.7303,  44.8699, 303.3356,  94.7816],
+        [ 58.4332,  43.2985, 137.5804, 117.8499],
+        [187.2435,  65.2307, 284.8222, 112.9327],
+        [215.5917,  62.2624, 254.2729, 111.9902],
+        [275.4894,  52.9766, 326.0394,  76.0663],
+        [129.0544,  69.5210, 231.6379, 127.3111],
+        [182.2145,  69.1185, 258.7689,  99.0167],
+        [ 69.2363,   8.2277, 142.2485,  54.4700],
+        [ 52.5699,  62.8202, 127.2614,  97.3923],
+        [187.7431,  65.9262, 226.2148, 107.8200],
+        [ 44.9202,  16.4984, 210.0112, 144.2556]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8180, 0.7467, 0.7344, 0.6529, 0.6048, 0.4533, 0.3224, 0.2770, 0.2395,
+        0.2022, 0.1873, 0.1464, 0.1271, 0.0845, 0.0844, 0.0816, 0.0753, 0.0735,
+        0.0734, 0.0654, 0.0634, 0.0571])}]
+2025-09-19 01:17:36,403 - INFO - Loading Data for index 110
+2025-09-19 01:17:36,403 - INFO - Image Path : artifacts/raw/Images\199.jpeg
+2025-09-19 01:17:36,407 - INFO - Loading Data for index 15
+2025-09-19 01:17:36,407 - INFO - Image Path : artifacts/raw/Images\112.jpeg
+2025-09-19 01:17:36,408 - INFO - Loading Data for index 274
+2025-09-19 01:17:36,408 - INFO - Image Path : artifacts/raw/Images\46.jpeg
+2025-09-19 01:17:43,809 - INFO - <class 'list'>
+2025-09-19 01:17:43,819 - INFO - VAL_LOSS : [{'boxes': tensor([[167.3207,  30.7627, 214.2815,  86.5797],
+        [210.4710,  19.8998, 329.7595,  66.6115],
+        [169.0528,  21.0448, 226.0817, 124.0954],
+        [ 46.9866,  84.2854,  83.5061, 116.2400],
+        [171.6634,  18.9665, 326.6240, 108.8539],
+        [176.9974,  63.0693, 222.1545,  94.0320],
+        [ 28.8932,  65.7863, 115.5175, 116.1066],
+        [175.3826,  67.6802, 225.1447, 126.8920],
+        [184.9927,  71.8225, 229.6738,  96.4339],
+        [215.8525,  24.2072, 306.3208,  91.5698],
+        [180.6418,  67.4111, 285.6770, 113.7648],
+        [ 77.2080,  48.3180, 117.8552, 134.4918],
+        [274.0863,  80.1695, 334.2654, 134.1521],
+        [ 89.7914,  55.2184, 117.9001, 111.6476],
+        [225.6075,  15.4753, 341.0000, 136.0739],
+        [  1.4055,  43.6633, 135.3581, 134.1318],
+        [ 84.0126,  10.5264, 337.2821,  77.8836],
+        [167.1059,  59.0335, 329.8441, 140.6764],
+        [ 70.7314,  12.8351, 341.0000, 135.8092],
+        [214.2809,  26.7314, 298.1930,  57.0329],
+        [192.2930,  62.3609, 220.5236, 107.0014],
+        [167.2604,  35.1815, 270.7158, 128.7460],
+        [ 39.4778,  51.2590,  96.1978, 129.4308],
+        [170.3596,  35.7191, 208.4059,  63.8214],
+        [182.1510,  49.4367, 216.1089, 117.2959],
+        [159.3141,  30.1655, 268.8417,  80.1713],
+        [238.3349,  26.8902, 291.6739, 117.3134],
+        [116.3314,  24.0642, 251.8525, 106.6970],
+        [212.1826,  48.8838, 294.2455, 107.7912],
+        [232.4168,  79.2984, 330.2420, 124.8215],
+        [228.5408,  77.3070, 288.7929, 105.3989],
+        [ 54.6370,  53.4156, 124.0332,  99.7554],
+        [170.2143,  93.3956, 222.3136, 122.1510],
+        [ 42.6167,  82.9686, 128.6740, 132.8978],
+        [259.9774,  75.2273, 286.7627, 108.4501],
+        [ 80.8190,  58.2158, 119.3361,  88.9724]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8409, 0.7029, 0.5839, 0.5725, 0.5623, 0.4374, 0.3499, 0.2978, 0.2601,
+        0.2506, 0.2355, 0.2331, 0.2264, 0.2215, 0.1965, 0.1853, 0.1766, 0.1695,
+        0.1657, 0.1538, 0.1460, 0.1450, 0.1372, 0.1286, 0.1204, 0.0975, 0.0948,
+        0.0870, 0.0820, 0.0815, 0.0687, 0.0661, 0.0599, 0.0599, 0.0596, 0.0568])}, {'boxes': tensor([[154.1710,   7.8463, 205.9411,  48.4003],
+        [ 41.1355, 133.5671,  83.4180, 158.7618],
+        [ 31.7987, 110.8729,  74.5159, 150.1435],
+        [ 56.2616,  52.2511, 197.2273, 123.2636],
+        [  0.0000, 142.8647,  34.5928, 163.9826],
+        [183.4859,  56.7076, 210.5516,  83.8601],
+        [ 69.2214,  56.0708, 153.0321, 111.6121],
+        [105.7530,  51.7771, 179.9450, 114.1160],
+        [ 35.0248, 118.5239,  83.8536, 163.4456],
+        [ 81.8358,  59.8695, 136.8637,  94.1402],
+        [158.4091,   3.4591, 209.1907,  81.4032],
+        [ 82.7626,  16.1132, 209.7518, 130.1967],
+        [ 54.8059,  48.3969, 147.0317, 157.6969],
+        [  4.6825, 102.1860,  75.9352, 163.0808],
+        [ 73.3093,   6.8730, 143.8958,  46.1554],
+        [ 33.4232,  65.3598, 235.0743, 150.3425],
+        [ 75.6154,   7.7053, 211.2444,  51.8760],
+        [215.0242, 101.6028, 294.4293, 164.0537],
+        [147.1714,   6.9382, 220.7948, 141.5162],
+        [146.6231,  30.4845, 199.1887,  51.5305],
+        [180.8201,  56.6596, 222.1753, 125.6788],
+        [ 82.3225,  27.4060, 141.3094, 132.6384],
+        [181.5084,  58.7725, 219.7632,  94.7843],
+        [156.7688,  89.7045, 194.0359, 116.8838],
+        [ 58.2040,   3.5004, 265.2207,  62.2428],
+        [114.7368,  83.7357, 201.8383, 126.5524],
+        [182.2159,  58.9973, 204.2780,  76.9890],
+        [221.7960, 136.6080, 283.2366, 159.3078],
+        [  7.4764,  86.2143, 151.8873, 158.0329],
+        [133.8671,  10.4893, 262.4236,  87.7482],
+        [ 60.7166,  78.3644, 157.8831, 132.0620],
+        [  0.0000, 101.4599,  40.9164, 163.7809],
+        [148.1966,  91.4549, 228.1404, 134.7734],
+        [  2.1160, 134.3425,  83.6880, 166.1083],
+        [125.7078,  53.8126, 221.0268, 123.0194],
+        [ 95.3719,  57.9775, 265.9590, 132.8091],
+        [104.0804,  59.2924, 139.7179,  87.7033]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.9568, 0.7272, 0.7188, 0.6793, 0.6685, 0.5612, 0.5579, 0.4877, 0.4429,
+        0.4218, 0.4130, 0.3910, 0.3662, 0.3276, 0.2555, 0.2307, 0.2059, 0.2029,
+        0.1952, 0.1900, 0.1537, 0.1503, 0.1475, 0.1454, 0.1092, 0.0930, 0.0769,
+        0.0727, 0.0710, 0.0689, 0.0657, 0.0617, 0.0596, 0.0539, 0.0532, 0.0515,
+        0.0505])}, {'boxes': tensor([[ 52.6560,  99.9036, 113.9940, 142.4416],
+        [107.4802,  97.3950, 206.1295, 143.0861],
+        [ 47.2896,  91.6116, 144.7139, 146.9980],
+        [191.0571,  57.2102, 251.8730, 124.2247],
+        [ 42.4293,  85.6365, 255.0258, 166.4833],
+        [115.0942, 104.5355, 152.6228, 134.9507],
+        [183.9319,  18.2745, 260.4088, 143.7909],
+        [ 69.3612, 100.9405, 116.0987, 130.7203],
+        [149.3747,  59.0674, 259.6691, 166.2203],
+        [144.4828,  83.0190, 250.4174, 126.5512],
+        [ 33.8257,  82.1431, 124.7611, 170.7566],
+        [111.7786,  89.4731, 164.2958, 165.7167],
+        [ 98.4278,  66.2515, 220.7447, 168.6428],
+        [  5.3626,  37.8451, 268.3392, 173.3850],
+        [204.5278,  67.7405, 247.8592, 102.8420],
+        [206.7261,  15.2416, 253.0543,  62.5846],
+        [ 52.8302, 113.3423, 104.1056, 134.2014],
+        [103.7545,  99.2822, 140.2198, 134.2565],
+        [ 99.0199,  91.5986, 147.8139, 157.2120],
+        [122.3982, 110.1284, 235.3796, 154.5101],
+        [184.7847,  29.2166, 249.9216,  70.7641]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.9224, 0.5082, 0.4588, 0.4576, 0.4561, 0.3961, 0.2069, 0.1980, 0.1778,
+        0.1640, 0.1487, 0.1353, 0.1108, 0.0964, 0.0841, 0.0836, 0.0828, 0.0591,
+        0.0581, 0.0580, 0.0510])}]
+2025-09-19 01:17:43,819 - INFO - Loading Data for index 71
+2025-09-19 01:17:43,819 - INFO - Image Path : artifacts/raw/Images\163.jpeg
+2025-09-19 01:17:43,827 - INFO - Loading Data for index 229
+2025-09-19 01:17:43,827 - INFO - Image Path : artifacts/raw/Images\305.jpeg
+2025-09-19 01:17:43,828 - INFO - Loading Data for index 183
+2025-09-19 01:17:43,828 - INFO - Image Path : artifacts/raw/Images\264.jpeg
+2025-09-19 01:17:51,179 - INFO - <class 'list'>
+2025-09-19 01:17:51,188 - INFO - VAL_LOSS : [{'boxes': tensor([[173.7624,  14.7387, 257.0479,  99.0882],
+        [106.4148,  17.8250, 268.3049, 119.6897],
+        [192.0452,  23.5901, 257.4857,  73.3071],
+        [ 79.8442,  65.3672, 164.2571, 111.1418],
+        [ 85.5274, 103.8082, 154.4985, 159.1497],
+        [161.9209,   5.9488, 278.6045, 165.0115],
+        [ 81.5929,  54.6041, 167.7924, 170.2626],
+        [ 17.6898,  92.3158,  73.5393, 153.9328],
+        [170.1652,  74.6181, 232.8534, 133.7824],
+        [ 30.4691,  68.5045, 180.7080, 151.5827],
+        [ 56.2041,  53.3189, 113.0578, 145.5697],
+        [100.3917,  44.0428, 167.5788, 120.0468],
+        [ 57.3824,  47.6217, 125.3685, 105.8215],
+        [  7.6348,  96.8669, 145.8756, 176.0000],
+        [ 49.1754,  92.1968, 126.4242, 140.2261],
+        [ 60.6487,  76.3242, 117.9440,  95.8796],
+        [ 82.5540, 101.6809, 123.3350, 140.5146],
+        [ 72.1627,  42.5895, 262.0406, 173.0299],
+        [ 92.4516, 120.6627, 143.5648, 151.6430],
+        [ 49.7089,  91.1651, 238.7889, 168.2857],
+        [100.6528,  73.1505, 159.3940, 102.9153],
+        [ 55.5001,  74.7936, 153.0313, 122.7962],
+        [ 80.1457,  75.7433, 122.7628, 160.1715],
+        [136.7972,  89.2926, 230.7844, 144.6304],
+        [167.5600,  85.3980, 232.7024, 113.9372],
+        [ 33.0975,  45.6082, 218.9818, 113.8136],
+        [174.9588,  35.3793, 236.5903, 144.1495],
+        [ 12.2524,  78.0235,  85.9202, 176.0000],
+        [ 77.3165, 117.7045, 275.5597, 176.0000],
+        [ 54.0663,  94.5465, 100.2902, 133.7460],
+        [ 49.3969,  77.1215, 106.6405, 168.1014],
+        [ 18.0575,  40.2761, 123.4892,  90.8217],
+        [ 18.7171,  37.2578, 125.6590, 176.0000],
+        [167.4996,  49.7993, 250.0279, 111.9547],
+        [  2.7348, 141.7955,  95.7910, 176.0000],
+        [ 44.8381,  75.5516,  91.8437,  94.6436],
+        [ 74.1995,  73.2865, 118.5287, 105.9382],
+        [122.0483,  68.1765, 240.1579, 173.9277]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8722, 0.5582, 0.5462, 0.5222, 0.4968, 0.4743, 0.4383, 0.3441, 0.3317,
+        0.3224, 0.2905, 0.2464, 0.2371, 0.2202, 0.2034, 0.2020, 0.1945, 0.1734,
+        0.1650, 0.1577, 0.1544, 0.1370, 0.1328, 0.1148, 0.1092, 0.1034, 0.0969,
+        0.0930, 0.0843, 0.0775, 0.0742, 0.0731, 0.0658, 0.0623, 0.0616, 0.0613,
+        0.0526, 0.0501])}, {'boxes': tensor([[ 72.5264,  77.7954, 114.6790, 114.6213],
+        [ 22.9640,  75.7657, 117.6991, 116.9876],
+        [115.3708,  63.3995, 180.3607, 116.1227],
+        [ 74.9058,  75.0217, 119.5655, 147.4172],
+        [ 16.2294,  67.6542, 189.1890, 134.8668],
+        [ 20.3416,  12.1693, 137.2991,  56.3377],
+        [  2.9730,  67.2793, 114.3972, 145.4120],
+        [ 53.5595,  72.0236, 134.1196, 127.5405],
+        [ 43.6063,  74.3787, 226.7200, 155.2476],
+        [ 15.5643,  23.6461, 136.5014, 156.7484],
+        [103.7015,  40.0371, 189.8087, 150.0792],
+        [ 64.6288,  75.6858, 171.1128, 118.0628],
+        [ 76.4505,  55.2891, 243.9294, 131.6431],
+        [105.2362,  76.7603, 199.9817, 124.7552],
+        [ 70.4845,  89.8004, 160.4801, 135.9209],
+        [113.7322,  69.9839, 175.5661,  96.6093]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8126, 0.6294, 0.3758, 0.3516, 0.2511, 0.1632, 0.1513, 0.1483, 0.1439,
+        0.1388, 0.0967, 0.0865, 0.0836, 0.0797, 0.0751, 0.0615])}, {'boxes': tensor([[1.2636e+02, 4.0669e+01, 2.4372e+02, 1.1554e+02],
+        [2.3618e+01, 2.9247e+00, 1.1276e+02, 3.7720e+01],
+        [1.1425e+02, 3.6810e+01, 2.8671e+02, 1.6246e+02],
+        [4.8547e+01, 9.9769e+01, 1.6706e+02, 1.6694e+02],
+        [1.4114e+01, 2.7421e+00, 1.2617e+02, 8.5270e+01],
+        [1.4237e+02, 8.6772e+01, 1.9008e+02, 1.0795e+02],
+        [8.5172e+01, 1.0167e+01, 1.2046e+02, 4.0225e+01],
+        [1.7161e+02, 7.9916e+01, 2.8716e+02, 1.4393e+02],
+        [1.4820e+02, 5.1211e+01, 2.1384e+02, 1.2294e+02],
+        [2.1367e+01, 1.4329e-01, 1.4005e+02, 1.6384e+02],
+        [2.9697e+01, 3.9766e+01, 1.2548e+02, 8.6462e+01],
+        [1.6922e+01, 7.2532e+01, 1.1446e+02, 1.2321e+02],
+        [1.5561e+01, 3.2317e+01, 1.2214e+02, 1.2947e+02],
+        [6.1861e+01, 9.4939e+00, 1.2814e+02, 4.5168e+01],
+        [1.2161e+01, 6.8496e+01, 2.1412e+02, 1.6800e+02],
+        [9.0249e+01, 1.4576e+01, 1.2619e+02, 9.4206e+01],
+        [7.9184e+01, 7.6845e+01, 1.8750e+02, 1.6219e+02],
+        [0.0000e+00, 7.1669e+00, 1.5622e+02, 4.3380e+01],
+        [1.3069e+01, 1.1362e+02, 2.4924e+02, 1.6800e+02]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7459, 0.5609, 0.4470, 0.4337, 0.3864, 0.3123, 0.2434, 0.2149, 0.1699,
+        0.1579, 0.1482, 0.1425, 0.1049, 0.0829, 0.0651, 0.0635, 0.0613, 0.0590,
+        0.0566])}]
+2025-09-19 01:17:51,188 - INFO - Loading Data for index 242
+2025-09-19 01:17:51,188 - INFO - Image Path : artifacts/raw/Images\317.jpeg
+2025-09-19 01:17:51,191 - INFO - Loading Data for index 24
+2025-09-19 01:17:51,191 - INFO - Image Path : artifacts/raw/Images\120.jpeg
+2025-09-19 01:17:51,192 - INFO - Loading Data for index 249
+2025-09-19 01:17:51,192 - INFO - Image Path : artifacts/raw/Images\323.jpeg
+2025-09-19 01:17:58,409 - INFO - <class 'list'>
+2025-09-19 01:17:58,418 - INFO - VAL_LOSS : [{'boxes': tensor([[207.3069,  95.1845, 287.3124, 137.1853],
+        [ 32.1123,  13.3035, 132.5597,  63.9802],
+        [175.8452,  84.1686, 285.7715, 154.9977],
+        [ 14.7212,   7.5558, 151.4479,  88.9537],
+        [ 62.3311,  85.9271, 161.1172, 130.8301],
+        [ 64.5852,  19.4506, 139.1646,  74.6010],
+        [181.0972,  40.1513, 234.6042,  61.8450],
+        [ 69.2923,  93.5236, 284.7144, 168.0000],
+        [238.0481,   9.9586, 295.4214,  65.0987],
+        [183.4666,  36.8612, 235.9590,  78.4500],
+        [ 67.1836,  96.9453, 181.6006, 165.0162],
+        [ 12.6066,  35.9730,  77.5312,  95.9185],
+        [ 58.8519,  34.0156, 163.1576, 166.1495],
+        [ 75.0781,  30.0436, 134.7713,  55.1137],
+        [235.1839,  99.8897, 292.4801, 129.8483],
+        [ 25.7087,  75.0813, 177.7281, 143.6433],
+        [ 11.6125,  45.6123,  69.7160,  74.2975],
+        [ 14.7779,  14.8618, 133.6097, 153.6740],
+        [ 87.3645, 117.6671, 214.3993, 160.0421],
+        [ 24.5698,  29.5996, 129.6037,  82.5323],
+        [ 15.2213,  20.2683,  82.1232, 140.4935],
+        [  4.4904,  23.3053, 267.6431,  74.8046]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7558, 0.6629, 0.5458, 0.4537, 0.4493, 0.3630, 0.3627, 0.3596, 0.2896,
+        0.2604, 0.2547, 0.1873, 0.1654, 0.1399, 0.1371, 0.1344, 0.1152, 0.1138,
+        0.0846, 0.0652, 0.0571, 0.0520])}, {'boxes': tensor([[ 14.2012,  51.2590,  76.8107,  99.6199],
+        [ 12.5008,  39.5242,  82.6351, 128.9654],
+        [127.8185, 138.8857, 206.1638, 190.4594],
+        [  9.6852,  46.9131, 142.7313, 123.1276],
+        [ 75.4137,  97.0133, 131.9032, 154.6131],
+        [ 87.4186,  44.6221, 138.1265, 103.1320],
+        [ 80.3567,   7.9760, 213.6868,  99.2348],
+        [ 10.5903,  42.5038, 206.0686, 151.9793],
+        [ 87.7835,   9.7921, 192.1465,  67.2800],
+        [ 21.1889,  37.2123, 135.2522, 180.9681],
+        [ 84.2029,  69.6974, 134.5886,  96.5879],
+        [143.2066, 148.6165, 207.9419, 176.2317],
+        [162.6632,  32.7258, 207.6208, 105.2058],
+        [ 15.7174,  56.3148,  74.7375,  81.7287],
+        [114.6159, 142.5085, 223.3941, 171.5780],
+        [ 85.5211,  31.3845, 138.5391, 147.0679],
+        [176.7610, 148.4413, 209.7954, 172.1515],
+        [ 71.5767,  26.1333, 240.2740, 128.8156],
+        [ 24.8869,  76.6620,  74.1692, 102.1361],
+        [138.5860,  42.0143, 209.6404,  85.1095],
+        [ 32.3022,  84.5064, 229.2461, 178.9196],
+        [ 40.1421, 103.6780, 142.0797, 151.3021]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8612, 0.4773, 0.4404, 0.3850, 0.2980, 0.2837, 0.2580, 0.2289, 0.1717,
+        0.1695, 0.1593, 0.1563, 0.1295, 0.1212, 0.1056, 0.1034, 0.1031, 0.0972,
+        0.0720, 0.0662, 0.0605, 0.0546])}, {'boxes': tensor([[165.0220, 102.1164, 191.1360, 129.1367],
+        [112.2600,  96.6773, 187.8299, 133.3590],
+        [135.4551, 103.0843, 193.9153, 128.3500],
+        [ 92.4070,  83.8268, 192.1748, 141.0272],
+        [ 66.4063,  74.7328, 148.8599, 118.9294],
+        [129.0666,  98.7034, 165.6279, 130.4452],
+        [ 52.8610,  70.5297, 210.9791, 143.5977],
+        [ 84.6924,  30.6301, 131.2974,  73.1598],
+        [161.8714,  93.1904, 193.3323, 142.0404],
+        [126.0403,  90.5291, 183.1698, 152.9790],
+        [ 66.4246,  49.1896, 135.7477, 131.6298],
+        [ 69.4591,  30.2939, 161.1676, 151.9523],
+        [107.4965,  72.2270, 159.7388, 134.0821],
+        [113.5242,  55.9870, 203.6538, 158.9512],
+        [ 90.2757,  55.3271, 149.0711, 126.2063],
+        [147.8696, 102.4108, 174.5539, 131.9426],
+        [135.2434,  95.4308, 206.9447, 142.7662],
+        [ 62.3742,  80.7905, 129.9638, 110.3447],
+        [ 71.4360,  40.4939, 131.1287,  84.7110],
+        [ 90.2805,  95.1922, 236.6562, 160.2867],
+        [111.8825,  81.0913, 147.3511, 119.6163],
+        [ 99.7470,  94.2387, 222.9338, 124.3271],
+        [ 41.6548,  46.8556, 266.4450, 130.6513],
+        [ 82.2205,  49.0281, 126.7845,  73.8837]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8726, 0.7603, 0.4225, 0.4024, 0.3500, 0.3064, 0.2633, 0.2199, 0.1940,
+        0.1707, 0.1598, 0.1427, 0.1103, 0.1003, 0.0994, 0.0875, 0.0854, 0.0739,
+        0.0710, 0.0692, 0.0660, 0.0646, 0.0606, 0.0543])}]
+2025-09-19 01:17:58,418 - INFO - Loading Data for index 266
+2025-09-19 01:17:58,418 - INFO - Image Path : artifacts/raw/Images\39.jpeg
+2025-09-19 01:17:58,423 - INFO - Loading Data for index 191
+2025-09-19 01:17:58,423 - INFO - Image Path : artifacts/raw/Images\271.jpeg
+2025-09-19 01:17:58,425 - INFO - Loading Data for index 288
+2025-09-19 01:17:58,425 - INFO - Image Path : artifacts/raw/Images\59.jpeg
+2025-09-19 01:18:07,520 - INFO - <class 'list'>
+2025-09-19 01:18:07,525 - INFO - VAL_LOSS : [{'boxes': tensor([[7.6192e+01, 4.1491e+01, 1.8000e+02, 8.3367e+01],
+        [1.2583e+01, 2.9344e+01, 1.8019e+02, 1.2480e+02],
+        [3.4574e+01, 2.4928e+01, 8.4534e+01, 5.6926e+01],
+        [3.8553e+01, 3.8636e+01, 1.7096e+02, 9.8311e+01],
+        [1.8873e+01, 1.3913e+02, 6.2565e+01, 2.4150e+02],
+        [2.3405e+01, 1.4270e+02, 5.7793e+01, 2.0690e+02],
+        [2.3559e+01, 1.8872e+01, 9.4215e+01, 1.1156e+02],
+        [1.2611e+01, 1.2165e+02, 9.6097e+01, 2.4687e+02],
+        [2.2543e+01, 1.1929e+02, 8.6642e+01, 1.9823e+02],
+        [2.7327e+01, 7.3188e+01, 1.0558e+02, 2.2741e+02],
+        [7.1239e+01, 2.3107e+01, 1.9250e+02, 1.8822e+02],
+        [2.1631e+01, 3.5359e+01, 1.5767e+02, 1.9125e+02],
+        [7.9643e+01, 2.8182e+01, 1.9054e+02, 1.1334e+02],
+        [1.0506e+02, 4.5470e+01, 1.8531e+02, 7.1198e+01],
+        [2.0241e+01, 4.3841e+01, 8.3995e+01, 7.4026e+01],
+        [2.2357e+01, 5.0246e+01, 1.4022e+02, 1.1487e+02],
+        [1.0959e+01, 1.5023e+02, 9.1528e+01, 2.0278e+02],
+        [0.0000e+00, 2.2421e+02, 1.0870e+02, 2.5800e+02],
+        [1.8369e+01, 1.4501e+02, 6.7435e+01, 1.8229e+02],
+        [1.2949e+01, 1.8040e+02, 5.4163e+01, 2.4504e+02],
+        [1.0973e-01, 9.9283e+01, 1.3621e+02, 2.5619e+02],
+        [2.7695e+01, 2.0809e+01, 1.0064e+02, 1.8153e+02],
+        [2.7506e+01, 8.1390e+01, 8.8848e+01, 1.7538e+02],
+        [1.1470e+02, 3.6940e+01, 1.9500e+02, 9.6500e+01],
+        [1.3714e+02, 4.0913e+01, 1.6712e+02, 7.9639e+01]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1]), 'scores': tensor([0.7839, 0.7760, 0.7426, 0.6815, 0.6674, 0.5876, 0.4780, 0.4543, 0.3894,
+        0.3515, 0.2544, 0.2482, 0.2333, 0.1503, 0.1346, 0.1300, 0.1257, 0.1165,
+        0.0862, 0.0799, 0.0733, 0.0695, 0.0567, 0.0550, 0.0540])}, {'boxes': tensor([[  3.0084, 108.8832, 101.9783, 164.5952],
+        [ 97.6121,  40.6426, 134.7420,  71.8618],
+        [100.3987,  23.4427, 198.6691,  69.9864],
+        [147.6596,  68.1906, 233.1358, 129.4698],
+        [168.6686,  74.7840, 234.0293, 114.5479],
+        [ 93.5065,   9.9739, 223.7815,  85.1023],
+        [144.0817,  37.8429, 228.7726, 158.5314],
+        [118.8453,   9.4636, 217.0907, 141.9995],
+        [  2.6575,  78.4912, 141.9532, 179.9874],
+        [119.0278, 128.4730, 192.0575, 174.1371],
+        [143.1514,  77.2849, 258.1985, 173.2021],
+        [136.8899,  20.7952, 198.0121,  93.0829],
+        [149.0245, 125.9081, 187.1527, 160.2966],
+        [ 22.3454,  60.7181, 138.0512, 122.4923],
+        [ 84.3860,  23.3360, 254.7036, 166.0437],
+        [ 22.9332,  52.9502, 115.9173, 100.8711],
+        [141.4283,  85.8761, 226.5263, 146.7004],
+        [  0.0000, 116.8413, 201.8324, 177.3335],
+        [ 42.7700,  85.5899, 225.3990, 174.5642],
+        [ 13.5165,  38.5738, 166.9700, 144.5473],
+        [192.0858,  79.9287, 230.2275, 107.0612],
+        [ 12.8698, 119.8930,  79.9728, 151.3463],
+        [ 97.1190,  36.1984, 167.7949,  75.9934],
+        [ 56.7519,  71.5134, 160.5099, 127.5456],
+        [100.0819,  23.0578, 147.1270,  87.0638],
+        [ 35.1011, 106.5963, 123.0476, 153.9839],
+        [116.9490,  10.3056, 216.7118,  57.9000],
+        [ 96.6695,  43.0916, 123.5651,  62.3416],
+        [124.0311,  29.3423, 192.4266,  56.9514],
+        [113.0516,  36.5180, 256.5331, 110.9897],
+        [213.6669,  98.1066, 273.7592, 166.7214],
+        [102.5804,  41.5085, 199.8997,  92.6316],
+        [112.7135, 163.6330, 170.9138, 178.5762],
+        [146.1197,  99.0421, 193.8653, 169.6393],
+        [149.1385,  87.3669, 216.8246, 120.7426],
+        [ 88.3913,  34.7845, 148.5844, 132.3184],
+        [153.2540,  30.3858, 198.5864,  62.2436],
+        [150.5971,  69.1824, 202.8575, 160.9478],
+        [131.5123, 110.2905, 215.3705, 157.9717],
+        [179.1423,  72.7501, 238.0491, 148.2521]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8538, 0.8029, 0.7048, 0.6519, 0.6035, 0.5897, 0.5340, 0.4955, 0.4725,
+        0.3845, 0.3635, 0.3616, 0.3581, 0.3058, 0.3045, 0.2943, 0.2757, 0.2748,
+        0.2444, 0.2285, 0.1912, 0.1908, 0.1780, 0.1517, 0.1439, 0.1291, 0.1217,
+        0.1202, 0.1135, 0.1006, 0.0925, 0.0850, 0.0808, 0.0776, 0.0751, 0.0714,
+        0.0668, 0.0662, 0.0630, 0.0574])}, {'boxes': tensor([[ 64.4575,  72.7805, 247.9480, 138.8078],
+        [  2.2686,   6.5218, 207.5288,  76.4741],
+        [  9.7166,  38.2228, 261.6404, 183.2353],
+        [ 98.5642,  70.5188, 265.8141, 176.3812],
+        [158.0496,  72.5056, 257.7780, 136.5678],
+        [ 71.2130,  10.5550, 199.1283,  58.7723],
+        [ 68.6475,  77.6048, 194.4860, 123.3900],
+        [ 32.2258,   6.4001, 211.3594, 150.4176],
+        [160.7610, 105.4751, 229.8759, 159.4101],
+        [  8.9796,  10.5750, 149.4984, 114.0593],
+        [ 29.4962,   5.6789, 110.2358,  98.3814],
+        [133.0845,  90.9431, 237.0346, 165.8434],
+        [167.5007, 116.9030, 224.1178, 144.4604],
+        [190.7614,  59.5108, 268.5926, 175.8637],
+        [ 49.4627,  76.0736, 197.3504, 167.0323],
+        [187.0907,  90.3348, 263.4230, 131.7870],
+        [126.6072,  78.1235, 249.7059, 102.5051],
+        [ 19.7693,  22.7528,  77.9811, 110.9763],
+        [ 13.6533,   9.2241, 117.9288,  56.8038],
+        [  8.9418,  45.8115, 106.8702, 100.3233],
+        [  8.0983,  16.6578,  52.0307,  98.9758]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7200, 0.6577, 0.6296, 0.6042, 0.4905, 0.4722, 0.3345, 0.3255, 0.2718,
+        0.2360, 0.1275, 0.1230, 0.1177, 0.0962, 0.0869, 0.0797, 0.0734, 0.0712,
+        0.0679, 0.0611, 0.0575])}]
+2025-09-19 01:18:07,525 - INFO - Loading Data for index 143
+2025-09-19 01:18:07,525 - INFO - Image Path : artifacts/raw/Images\228.jpeg
+2025-09-19 01:18:07,532 - INFO - Loading Data for index 260
+2025-09-19 01:18:07,532 - INFO - Image Path : artifacts/raw/Images\333.jpeg
+2025-09-19 01:18:07,534 - INFO - Loading Data for index 7
+2025-09-19 01:18:07,534 - INFO - Image Path : artifacts/raw/Images\105.jpeg
+2025-09-19 01:18:15,044 - INFO - <class 'list'>
+2025-09-19 01:18:15,053 - INFO - VAL_LOSS : [{'boxes': tensor([[236.9179,  79.3684, 297.4552, 168.0000],
+        [210.4854,  93.8152, 264.1762, 145.9631],
+        [132.7053,  93.7038, 171.4848, 136.7064],
+        [ 65.6448,   5.0350, 181.7950,  88.2451],
+        [213.8345, 102.2086, 288.8582, 168.0000],
+        [242.0822,  85.7451, 297.0131, 114.8886],
+        [174.9278,  86.9470, 298.4469, 156.2911],
+        [134.4517,  64.6713, 179.1257, 151.2853],
+        [228.1992,  88.4047, 292.3169, 128.5587],
+        [ 86.5030,  28.1736, 178.6300,  80.2736],
+        [ 75.0642,   9.7427, 149.5238,  66.8859],
+        [ 70.1305,   2.2396, 190.4598, 157.1328],
+        [100.1328,  89.9645, 190.6199, 142.5023],
+        [ 17.8024,  94.5126, 113.2156, 161.5263],
+        [116.1404,  29.0211, 192.8758, 168.0000],
+        [ 86.2833,  96.2865, 300.0000, 168.0000],
+        [243.6758, 111.5440, 293.5251, 153.7398],
+        [126.6448,  74.9113, 195.4380, 127.3911],
+        [ 26.9714, 114.1316,  88.8388, 157.1538],
+        [ 20.5765,   7.5101, 249.5069,  61.9520],
+        [ 23.5429, 122.2508,  63.5901, 156.2942],
+        [  8.5718, 114.4541, 240.8384, 168.0000],
+        [ 95.0333,  12.8085, 161.7953, 101.2052],
+        [ 43.7899, 131.6167, 193.6443, 168.0000],
+        [ 99.4023,  43.3103, 160.6098,  70.0003]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1]), 'scores': tensor([0.7367, 0.6819, 0.5759, 0.5703, 0.3462, 0.3255, 0.3128, 0.2684, 0.2447,
+        0.2114, 0.2074, 0.2070, 0.2047, 0.1925, 0.1326, 0.1221, 0.1069, 0.0883,
+        0.0751, 0.0750, 0.0745, 0.0733, 0.0646, 0.0600, 0.0525])}, {'boxes': tensor([[112.6868,  51.6035, 163.9349,  73.7419],
+        [109.2299,  48.2014, 183.4417,  80.7887],
+        [175.0793,  84.4965, 254.7466, 135.0953],
+        [236.8235,  79.2346, 262.0000, 132.1260],
+        [132.5570,  53.9719, 181.8329, 144.8080],
+        [125.3455,  54.0153, 174.9213,  85.7663],
+        [117.4573,  41.0207, 175.6537, 102.4418],
+        [165.5510,  68.4137, 262.0000, 193.0000],
+        [140.0446, 100.6573, 183.4805, 141.2298],
+        [ 28.3291, 147.1479, 171.6469, 193.0000],
+        [150.6862, 105.1724, 249.1020, 173.4689],
+        [216.0499,  81.4133, 261.8405, 139.3752],
+        [ 92.0417,  45.1416, 216.9776,  84.6928],
+        [173.9783, 131.2423, 229.3414, 160.1132],
+        [113.4891,  57.9282, 251.2713, 154.6121],
+        [102.7826,  31.1548, 198.9666,  98.4514],
+        [115.8990,  54.1695, 148.1344,  68.8031],
+        [229.4172,  87.1913, 261.0710, 112.6099]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8607, 0.6377, 0.4824, 0.3584, 0.2908, 0.2622, 0.2434, 0.2289, 0.1635,
+        0.1479, 0.1034, 0.0934, 0.0839, 0.0761, 0.0666, 0.0586, 0.0564, 0.0505])}, {'boxes': tensor([[ 95.0386,  19.3110, 246.3478, 145.6757],
+        [230.9192,  99.2088, 285.7303, 145.4554],
+        [  5.3287,  86.3926, 106.8411, 141.9959],
+        [101.0635,  54.4007, 204.4794, 106.6830],
+        [119.4219,  21.4549, 161.3533,  59.6392],
+        [145.6764,  13.2505, 221.3557, 109.2875],
+        [118.2236,  73.8850, 271.1481, 155.0371],
+        [ 95.6012,   7.0995, 239.5384,  76.8293],
+        [  4.4279,  53.1886, 105.8013, 168.0000],
+        [  0.4689,  41.6696,  79.3529,  81.9917],
+        [157.8967,  49.3059, 230.2762, 109.3152],
+        [154.0504,  71.4293, 209.9399, 155.7946],
+        [149.5295,  20.3520, 233.3635,  67.3645],
+        [109.0852,  16.2423, 168.6150,  81.7684],
+        [102.8931,   4.9602, 212.6951,  52.1628],
+        [130.3407,  52.8113, 282.1082, 129.2473],
+        [204.6232,  86.1667, 289.6315, 152.7314],
+        [ 99.4660,   9.3178, 184.1931, 116.8976],
+        [ 44.6109,  81.1449, 112.4557, 158.4507],
+        [217.9103,  69.0639, 261.4146,  91.4645],
+        [215.9091,  63.7596, 261.1122, 129.0761],
+        [175.0051,  61.9682, 231.7064,  86.6699],
+        [111.0870,  24.3259, 270.4962,  95.6179],
+        [103.1765,  72.9590, 206.1107, 122.8244],
+        [144.1084,  85.9025, 239.5335, 141.9346],
+        [  0.0000,  79.0859, 189.4181, 162.9643],
+        [ 43.3551,  16.4170, 270.7419,  61.6035],
+        [190.7566,  40.1323, 282.1244, 154.6310],
+        [172.2835,  47.4612, 241.6132, 147.6929],
+        [130.8362,  21.0598, 167.9021,  49.6885],
+        [163.5500,  64.1962, 262.9161, 100.7420],
+        [  0.0000, 117.9070,  93.9523, 167.9285],
+        [165.9026,  81.4854, 272.9664, 134.3063],
+        [140.6338,  61.2378, 181.8183,  97.0128],
+        [129.0898,  56.8211, 188.5050, 138.1935],
+        [189.4055,  73.8222, 273.8254, 119.3525],
+        [111.4408,  30.6274, 211.5350,  85.6952],
+        [ 51.7361,  60.6343, 208.2362, 138.3229],
+        [105.3869,  48.4235, 172.6714, 143.6273]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.6523, 0.6264, 0.5058, 0.4801, 0.4720, 0.4664, 0.3944, 0.3699, 0.3496,
+        0.3063, 0.2901, 0.2452, 0.2325, 0.2145, 0.2096, 0.2035, 0.1968, 0.1829,
+        0.1786, 0.1462, 0.1456, 0.1455, 0.1345, 0.1288, 0.1216, 0.1194, 0.1139,
+        0.1092, 0.1077, 0.0989, 0.0921, 0.0824, 0.0782, 0.0628, 0.0613, 0.0610,
+        0.0606, 0.0588, 0.0546])}]
+2025-09-19 01:18:15,053 - INFO - Loading Data for index 182
+2025-09-19 01:18:15,053 - INFO - Image Path : artifacts/raw/Images\263.jpeg
+2025-09-19 01:18:15,054 - INFO - Loading Data for index 152
+2025-09-19 01:18:15,054 - INFO - Image Path : artifacts/raw/Images\236.jpeg
+2025-09-19 01:18:15,056 - INFO - Loading Data for index 278
+2025-09-19 01:18:15,056 - INFO - Image Path : artifacts/raw/Images\5.jpeg
+2025-09-19 01:18:22,617 - INFO - <class 'list'>
+2025-09-19 01:18:22,630 - INFO - VAL_LOSS : [{'boxes': tensor([[ 97.3394,  45.2578, 210.9435, 101.5057],
+        [ 90.2205,  34.8630, 237.8518, 138.5151],
+        [134.4694,  51.3042, 227.2311, 107.7789],
+        [172.1869,  53.5609, 224.7943, 138.2016],
+        [104.0474,  53.9929, 216.0683,  81.4263],
+        [155.9022,  66.7011, 231.0240, 117.3538],
+        [166.9701,  59.8225, 216.5661, 102.0871],
+        [149.5960,  48.7388, 246.2256, 169.3882],
+        [  6.7977,  20.7469, 251.1272, 153.3823],
+        [178.6731, 106.7350, 224.6445, 132.3954],
+        [ 99.7783,  44.2586, 159.9417,  77.0956],
+        [166.2767,  85.6285, 233.0925, 127.3257],
+        [106.1239,  34.6432, 183.9873, 122.5517],
+        [154.2483,  72.2880, 214.7113,  96.9477],
+        [184.8502,  54.7246, 212.0444,  99.6315],
+        [179.5398, 120.4123, 222.6870, 140.4498]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8477, 0.7071, 0.6401, 0.3531, 0.2717, 0.2557, 0.2448, 0.1878, 0.1856,
+        0.1611, 0.1251, 0.0708, 0.0691, 0.0597, 0.0525, 0.0523])}, {'boxes': tensor([[ 51.0212,  44.4928, 184.3390, 128.1013],
+        [ 50.7516, 206.9691,  55.9868, 207.0000],
+        [ 55.1473, 206.9682,  60.0731, 207.0000],
+        [  4.7579,  23.6471, 220.0013, 170.0159],
+        [ 73.4106,  56.9287, 193.6882, 103.9436],
+        [ 49.5091, 206.9058,  55.1390, 206.9992],
+        [ 46.4119, 206.9538,  52.1388, 206.9996],
+        [ 47.4290, 206.9068,  53.1016, 206.9992],
+        [194.2513, 206.9443, 200.3356, 206.9992],
+        [ 69.2866,  57.2656, 225.7627, 151.3878],
+        [ 65.4674,  65.2763, 119.9157,  99.5839],
+        [118.4855,  50.7780, 196.5856, 121.9737],
+        [ 84.6998,  61.4858, 167.0976, 150.3572],
+        [ 92.6597,  73.9368, 181.7543, 101.6393]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7214, 0.4615, 0.4615, 0.2775, 0.2202, 0.1753, 0.1745, 0.1738, 0.1651,
+        0.1053, 0.0623, 0.0558, 0.0542, 0.0527])}, {'boxes': tensor([[229.0063,  29.6839, 290.2437,  74.8725],
+        [149.5801,  63.1837, 204.2194, 122.6899],
+        [213.9305,  21.6086, 292.3272,  97.7398],
+        [ 17.4522,  68.0460, 153.9428, 162.6573],
+        [ 23.6633,  92.3861, 126.5560, 144.8231],
+        [141.8737,  51.2124, 218.9832, 136.2177],
+        [135.6994,  58.1653, 270.0375, 144.2717],
+        [144.5747,  33.4057, 292.0618, 111.0296],
+        [ 60.3495,  60.5693, 233.8154, 137.0167],
+        [ 67.0623,  42.9200, 162.0563, 158.0311],
+        [140.8560,  74.5914, 240.6723, 116.2038],
+        [137.7589,  12.9282, 198.7507,  53.6901],
+        [152.8936,  86.4881, 243.8526, 128.0565],
+        [244.5861,  32.9027, 293.1845,  57.7499],
+        [  7.8106,  28.9359, 214.7639, 167.3548],
+        [225.2136,  44.1531, 281.4626,  99.7139],
+        [ 13.5194, 110.6244,  71.0471, 132.2597],
+        [154.3504,  68.3055, 209.5019,  96.6303],
+        [231.1926,  39.6988, 265.2752,  84.0990],
+        [227.9442,  45.3933, 280.0838,  71.6286],
+        [ 14.5372,  92.2865, 261.9400, 159.9346],
+        [135.9729,  24.3913, 300.0000,  72.8535],
+        [ 96.2403,  50.1662, 156.3335, 132.5252],
+        [219.7773,  51.0613, 264.4085, 123.3804],
+        [ 62.0152,  93.2750, 152.7064, 141.3691],
+        [ 45.9142, 100.6692,  71.0664, 136.5168],
+        [224.4663,  56.0377, 268.4133,  78.7778],
+        [203.1635,  74.0637, 248.1405, 139.2392],
+        [178.5812,  69.5817, 230.2491, 136.4148],
+        [138.5847,  63.5364, 260.3593, 100.1635]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1]), 'scores': tensor([0.8893, 0.7239, 0.6218, 0.5565, 0.5549, 0.4407, 0.2609, 0.2041, 0.1999,
+        0.1923, 0.1878, 0.1701, 0.1545, 0.1318, 0.1284, 0.1181, 0.1133, 0.1073,
+        0.1048, 0.0986, 0.0876, 0.0876, 0.0738, 0.0664, 0.0635, 0.0556, 0.0545,
+        0.0542, 0.0532, 0.0529])}]
+2025-09-19 01:18:22,630 - INFO - Loading Data for index 167
+2025-09-19 01:18:22,630 - INFO - Image Path : artifacts/raw/Images\25.jpeg
+2025-09-19 01:18:22,631 - INFO - Loading Data for index 112
+2025-09-19 01:18:22,631 - INFO - Image Path : artifacts/raw/Images\20.jpeg
+2025-09-19 01:18:22,633 - INFO - Loading Data for index 98
+2025-09-19 01:18:22,633 - INFO - Image Path : artifacts/raw/Images\188.jpeg
+2025-09-19 01:18:30,772 - INFO - <class 'list'>
+2025-09-19 01:18:30,782 - INFO - VAL_LOSS : [{'boxes': tensor([[147.9549,  93.5674, 218.4253, 143.1883],
+        [154.7220, 101.4977, 212.1788, 131.5382],
+        [137.0006,  75.7661, 226.7736, 155.7924],
+        [100.1848,  56.7878, 234.1370, 165.3863],
+        [167.8815,  64.3058, 220.7556, 138.7763],
+        [  0.0000,   8.1172,  37.5350,  49.1371],
+        [156.4843,  40.0803, 241.2607, 156.0731],
+        [ 35.4933,  33.3800, 265.6294, 168.8508],
+        [ 70.6157,  96.8393, 136.1236, 157.7724],
+        [  0.0000,   9.4378, 287.1635,  72.5565],
+        [  0.0000,   9.4092, 160.6548,  87.2917],
+        [ 30.6667,  82.8777, 228.4076, 159.8058],
+        [140.9187,  18.6970, 279.0959, 147.5293],
+        [ 93.1243,  78.4135, 212.2082, 118.9644],
+        [129.0520,  88.6627, 176.5562, 160.8494],
+        [139.9028,  15.5157, 276.8270,  55.5854],
+        [  5.1980,  11.2609, 124.6866, 145.9233],
+        [140.1902, 103.4857, 204.7811, 155.7452],
+        [  4.7709,  47.8236, 100.5230, 107.1565],
+        [ 11.4972,  96.3412, 167.3517, 169.3809],
+        [  0.0000,   1.2819,  57.2274,  56.6691],
+        [140.8992,  87.1762, 248.6653, 133.6518],
+        [ 87.7632, 102.5668, 125.5455, 143.1424],
+        [143.5257,  92.2028, 280.8884, 166.7328],
+        [ 25.2743,  50.0183,  89.9967, 151.7272],
+        [  0.0000,   4.4943, 117.7308,  60.6911],
+        [ 44.8930,  16.0383, 288.1674, 115.2162]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1]), 'scores': tensor([0.6853, 0.5832, 0.5590, 0.4621, 0.4539, 0.3349, 0.2984, 0.2684, 0.1988,
+        0.1892, 0.1435, 0.1324, 0.1304, 0.1233, 0.1162, 0.1154, 0.1150, 0.0967,
+        0.0840, 0.0774, 0.0761, 0.0711, 0.0668, 0.0657, 0.0559, 0.0557, 0.0509])}, {'boxes': tensor([[214.9058, 145.1877, 253.6091, 167.2500],
+        [ 72.8839,  71.3017, 125.4450, 131.2851],
+        [121.3044,  47.2334, 245.3376, 131.5003],
+        [168.2351,  49.1007, 235.9994,  91.1912],
+        [178.9682,  42.1552, 228.3245, 120.6480],
+        [110.6343,  21.7568, 187.0827,  70.8534],
+        [ 84.1416,  63.4474, 228.9245, 143.8125],
+        [134.0164,  40.0152, 230.7010, 185.2505],
+        [ 73.5283,  85.0831, 118.5941, 118.6156],
+        [133.8541,  52.0949, 186.7852, 149.1942],
+        [ 90.6512,  75.8848, 196.2935, 188.4516],
+        [106.1215,  22.6691, 246.1402, 105.2412],
+        [110.4801,  23.4586, 189.1470, 176.3944],
+        [120.6454,  34.2447, 177.1464,  64.0304],
+        [177.9852,  52.6213, 217.3926,  95.9706],
+        [197.9074,  48.7985, 239.9805, 131.0842],
+        [ 78.7422,  72.5756, 135.8151, 167.2661],
+        [194.9492, 140.2611, 256.4869, 174.8459],
+        [168.9596,  27.2669, 237.8439, 160.2274],
+        [173.4792,  63.9669, 247.6688, 108.5244],
+        [123.0877, 103.3776, 191.5850, 179.4880],
+        [  0.0000,  56.1100, 126.9683, 150.1882],
+        [136.0151,  70.4068, 235.6643, 120.0469],
+        [213.0318, 122.7366, 252.6252, 185.4912],
+        [ 95.5219, 101.2174, 186.2567, 147.4705],
+        [ 67.6849,  67.8076, 105.0122,  90.3474],
+        [  0.0000,  75.0441,  83.9746, 124.0267],
+        [117.0713, 140.2254, 199.6919, 183.7424],
+        [  0.0000,  77.4594,  54.3629,  99.1797],
+        [119.7286,  76.6683, 197.5665, 128.0100],
+        [133.6813,  38.6423, 235.2301,  82.0543],
+        [ 73.1278,  85.0404, 154.3552, 139.4289],
+        [128.8311,  74.3650, 184.5772, 107.6000],
+        [ 57.3010,  42.0889, 132.5374, 180.1797],
+        [125.8492,  24.6946, 178.9261, 129.7738],
+        [121.5615,  93.9482, 223.0443, 144.8527],
+        [ 28.3831,  15.7368, 245.4731, 142.9643],
+        [ 91.1491, 114.8679, 141.9015, 143.8955]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.7019, 0.5783, 0.4304, 0.4136, 0.3604, 0.3586, 0.3419, 0.3271, 0.2534,
+        0.2340, 0.2195, 0.2031, 0.1844, 0.1708, 0.1610, 0.1499, 0.1407, 0.1348,
+        0.1174, 0.1072, 0.0997, 0.0962, 0.0928, 0.0883, 0.0877, 0.0868, 0.0825,
+        0.0798, 0.0779, 0.0769, 0.0703, 0.0664, 0.0657, 0.0644, 0.0636, 0.0628,
+        0.0605, 0.0512])}, {'boxes': tensor([[ 58.7929,  29.0887, 149.5526, 108.7919],
+        [170.4179,  60.6542, 249.4865, 109.3923],
+        [ 81.1493,  35.5000, 151.8810,  68.4194],
+        [ 70.7722,  47.6391, 136.7279,  99.1103],
+        [ 66.6493,  19.7847, 142.6895, 179.3237],
+        [154.2839,  43.9709, 250.6308, 130.5054],
+        [125.8263, 109.9604, 180.4013, 139.9457],
+        [ 66.8409,  93.6541, 135.9957, 177.2534],
+        [ 59.8516,  39.4215, 243.6877, 121.6737],
+        [ 93.9432, 172.4290, 142.0077, 194.0000],
+        [ 68.3756,  49.4450, 182.8406, 158.5531],
+        [ 35.3618,  21.9545, 244.1690, 181.3743],
+        [106.0351,  37.4568, 153.0563,  62.3131],
+        [138.9869,  28.9934, 257.6136, 172.6629],
+        [ 52.4354,  90.4786, 184.6403, 183.2614],
+        [ 37.9069,  71.6478,  75.0468,  94.7890],
+        [ 97.8125,  35.2417, 154.3883,  95.1563],
+        [ 68.9258,  96.7045, 131.8198, 134.4319],
+        [ 73.4941,  55.1572, 140.6091, 142.2370],
+        [ 70.1898, 102.1967, 182.0203, 150.8701],
+        [ 65.2523, 119.8011, 113.3854, 168.8836],
+        [166.4745,  60.5854, 226.3523,  96.0571],
+        [121.3026,  97.7504, 188.0671, 159.7436],
+        [ 68.6322,  61.8148, 168.3852, 117.4499],
+        [100.4629,  81.0262, 248.0515, 158.1116]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1]), 'scores': tensor([0.8358, 0.7988, 0.7498, 0.7113, 0.6210, 0.6158, 0.5477, 0.5404, 0.3691,
+        0.3630, 0.3279, 0.3121, 0.3090, 0.2721, 0.2336, 0.2116, 0.2080, 0.1483,
+        0.1428, 0.1329, 0.1328, 0.1287, 0.1279, 0.0797, 0.0520])}]
+2025-09-19 01:18:31,038 - INFO - Model saved sucesfuly...

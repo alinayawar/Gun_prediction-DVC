@@ -1,1 +1,1 @@
-{"write": {"D:\\gun_prediction\\code\\artifacts\\models\\fasterrcnn.pth": {"pid": 14844, "cmd": "D:\\gun_prediction\\gun\\Scripts\\dvc repro"}}, "read": {"D:\\gun_prediction\\code\\src\\model_training.py": [{"pid": 14844, "cmd": "D:\\gun_prediction\\gun\\Scripts\\dvc repro"}], "D:\\gun_prediction\\code\\artifacts\\raw": [{"pid": 14844, "cmd": "D:\\gun_prediction\\gun\\Scripts\\dvc repro"}], "D:\\gun_prediction\\code\\artifacts\\models\\fasterrcnn.pth": [{"pid": 14844, "cmd": "D:\\gun_prediction\\gun\\Scripts\\dvc repro"}]}}
+{}
