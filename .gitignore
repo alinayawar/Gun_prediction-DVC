@@ -6,4 +6,4 @@ artifacts/weights/
 artifacts/model_checkpoint/  
 MLOPS_PROJECT_4.egg-info/
 .dvc/cache/
-
+artifacts/
